@@ -24,6 +24,7 @@ public class PlayerAI
 	 * @param friendlyUnits An array of all 4 units on your team. Their order won't change.
 	 */
 
+	int activeUnits = 4;
 	int[] mode = new int[4];
 	boolean[] moved = new boolean[4];
 	
@@ -41,35 +42,16 @@ public class PlayerAI
 	{
 		moved = new boolean[4];
 		
-		//check if you can shoot anyone
-		for(int f = 0; f < 4; f++){
-			int target = -1;
-			for(int e = 0; e < 4; e++){
-				if(FU[f].checkShotAgainstEnemy(EU[e]) == ShotResult.CAN_HIT_ENEMY){
-					target = e;
-					break;
-				}
-			}
-			if(target>=0){
-				FU[f].shootAt(EU[target]);
-				moved[f] = true;
-			}
+		//randomly moving around
+		for(int f = 0; f < activeUnits; f++){
+			if(mode[f] == 1)random_move(FU[f]);
 		}
 		
 		//assign closest pickup to the player
 		Pickup[] pickups = world.getPickups();
 		Pickup[] assignedP = new Pickup[4];
 		
-		
-		//debug code
-		/*System.out.println(FU[0].getPosition().getX()+" - "+FU[0].getPosition().getY());
-		for(int i = 0; i < pickups.length; i++){
-			int x = pickups[i].getPosition().getX();
-			int y = pickups[i].getPosition().getY();
-			System.out.println(x+","+y);
-		}*/
-		
-		for(int f = 0; f < 4; f++){
+		for(int f = 0; f < activeUnits; f++){
 			int closest = 9999999;
 			for(int i = 0; i < pickups.length; i++)
 			{
@@ -82,19 +64,52 @@ public class PlayerAI
 			}
 		}
 		
+		//make sure each one has assigned pickup, otherwise go into mode 1
+		for(int f = 0; f < activeUnits; f++){
+			if(assignedP[f] == null)
+			{
+				mode[f] = 1;
+			}
+		}
+		
 		//move each player towards the pickup
-		for(int f = 0; f < 4; f++){
+		for(int f = 0; f < activeUnits; f++){
 			if(mode[f] == 0){
 				Direction d = world.getNextDirectionInPath(FU[f].getPosition() , assignedP[f].getPosition() );
 				FU[f].move(d);
 			}
 		}
+		
+		//pick up item if unit gets to it
+		for(int f = 0 ; f < activeUnits; f++){
+			if(mode[f] == 0){
+				if(FU[f].getPosition().equals(assignedP[f].getPosition())){
+					FU[f].pickupItemAtPosition();
+					mode[f] = 1;
+				}
+			}
+		}
+		
+		//check if you can shoot anyone
+		for(int f = 0; f < activeUnits; f++){
+			int target = -1;
+			for(int e = 0; e < 4; e++){
+				if(FU[f].checkShotAgainstEnemy(EU[e]) == ShotResult.CAN_HIT_ENEMY){
+					target = e;
+					break;
+				}
+			}
+			if(target>=0){
+				FU[f].shootAt(EU[target]);
+			}
+		}
+		
 	}//end doMove()
 	
 	//helper functions
 	
 	//random move
-	public void random_move(World world, EnemyUnit[] EU, FriendlyUnit fu)
+	public void random_move(FriendlyUnit fu)
 	{
 		int d = (int)(Math.random()*8);
 		for(int i = 0; i < 8; i++){
