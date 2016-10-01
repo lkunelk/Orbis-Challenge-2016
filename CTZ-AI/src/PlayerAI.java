@@ -9,6 +9,7 @@ import com.orbischallenge.ctz.objects.FriendlyUnit;
 import com.orbischallenge.ctz.objects.World;
 import com.orbischallenge.ctz.objects.enums.Direction;
 import com.orbischallenge.ctz.objects.enums.MoveResult;
+import com.orbischallenge.ctz.objects.enums.ShotResult;
 
 public class PlayerAI
 {
@@ -32,17 +33,35 @@ public class PlayerAI
 			Direction.WEST,
 			Direction.NORTH_WEST};
 	
-	public void doMove(World world, EnemyUnit[] enemyUnits, FriendlyUnit[] friendlyUnits)
+	public void doMove(World world, EnemyUnit[] EU, FriendlyUnit[] FU)
 	{
+		int[] moves = new int[4];
+		
+		//check if you can shoot anyone
+		for(int f = 0; f < 4; f++){
+			int target = -1;
+			for(int e = 0; e < 4; e++){
+				if(FU[f].checkShotAgainstEnemy(EU[e]) == ShotResult.CAN_HIT_ENEMY){
+					target = e;
+					break;
+				}
+			}
+			if(target>=0){
+				FU[f].shootAt(EU[target]);
+				moves[f] = 1;
+			}
+		}
+		
+		//move each player
 		for(int b = 0; b < 4; b++){
 			int i = 0;
 			for(int a = 0; a < 8; a++){
 				i = (int)(Math.random()*8);
-				if(friendlyUnits[b].checkMove(dir[i]) == MoveResult.MOVE_VALID)
+				if(FU[b].checkMove(dir[i]) == MoveResult.MOVE_VALID)
 					break;
 			}
 			
-			friendlyUnits[b].move(dir[i]);
+			if(moves[b] != 1)FU[b].move(dir[i]);
 		}
 	}
 }
