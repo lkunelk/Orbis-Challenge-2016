@@ -23,6 +23,9 @@ public class PlayerAI
 	 * @param enemyUnits An array of all 4 units on the enemy team. Their order won't change.
 	 * @param friendlyUnits An array of all 4 units on your team. Their order won't change.
 	 */
+
+	int[] mode = new int[4];
+	boolean[] moved = new boolean[4];
 	
 	Direction[] dir = {
 			Direction.NORTH,
@@ -36,9 +39,9 @@ public class PlayerAI
 	
 	public void doMove(World world, EnemyUnit[] EU, FriendlyUnit[] FU)
 	{
-		int[] moves = new int[4];
+		moved = new boolean[4];
 		
-		/*/check if you can shoot anyone
+		//check if you can shoot anyone
 		for(int f = 0; f < 4; f++){
 			int target = -1;
 			for(int e = 0; e < 4; e++){
@@ -49,9 +52,9 @@ public class PlayerAI
 			}
 			if(target>=0){
 				FU[f].shootAt(EU[target]);
-				moves[f] = 1;
+				moved[f] = true;
 			}
-		}*/
+		}
 		
 		//assign closest pickup to the player
 		Pickup[] pickups = world.getPickups();
@@ -66,7 +69,7 @@ public class PlayerAI
 			System.out.println(x+","+y);
 		}*/
 		
-		for(int f = 0; f < 1; f++){
+		for(int f = 0; f < 4; f++){
 			int closest = 9999999;
 			for(int i = 0; i < pickups.length; i++)
 			{
@@ -74,27 +77,32 @@ public class PlayerAI
 				if( pathLen < closest && !contains(assignedP, pickups[i]) ){
 					closest = pathLen;
 					assignedP[f] = pickups[i];
-					System.out.format("soldier %d is assigned p @ (%d,%d)",f,assignedP[f].getPosition().getX(), assignedP[f].getPosition().getY());
+					//System.out.format("soldier %d is assigned p @ (%d,%d)",f,assignedP[f].getPosition().getX(), assignedP[f].getPosition().getY());
 				}
-				
-				
 			}
 		}
 		
-		//move each player
-		for(int b = 0; b < 1; b++){
-			int i = 0;
-			for(int a = 0; a < 8; a++){
-				i = (int)(Math.random()*8);
-				if(FU[b].checkMove(dir[i]) == MoveResult.MOVE_VALID)
-					break;
+		//move each player towards the pickup
+		for(int f = 0; f < 4; f++){
+			if(mode[f] == 0){
+				Direction d = world.getNextDirectionInPath(FU[f].getPosition() , assignedP[f].getPosition() );
+				FU[f].move(d);
 			}
-			
-			if(moves[b] != 1)FU[b].move(dir[i]);
 		}
 	}//end doMove()
 	
 	//helper functions
+	
+	//random move
+	public void random_move(World world, EnemyUnit[] EU, FriendlyUnit fu)
+	{
+		int d = (int)(Math.random()*8);
+		for(int i = 0; i < 8; i++){
+			if(fu.checkMove(dir[i]) == MoveResult.MOVE_VALID)break;
+			else d = (int)(Math.random()*8);
+		}
+		fu.move(dir[d]);
+	}
 	
 	//searches for instance o in the array a,
 	//true if instance is in the array otherwise false
