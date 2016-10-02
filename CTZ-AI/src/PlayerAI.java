@@ -80,7 +80,7 @@ public class PlayerAI
 		int[][] objC = null;
 		
 		//evaluate the cost for each pickup
-		if(P != null){
+		if(P.length > 0){
 			objP = new int[heros.length][P.length];
 			
 				for(int h = 0; h < heros.length; h++)
@@ -95,7 +95,7 @@ public class PlayerAI
 		}
 		
 		//evaluate cost of the control points
-		if(C != null){
+		if(C.length > 0){
 				objC = new int[heros.length][C.length];
 				
 				for(int h = 0; h < heros.length; h++){
@@ -107,11 +107,13 @@ public class PlayerAI
 				}
 		}
 		
+		Point[] obj = new Point[heros.length];
+		
 		//assign objectives to heros
 		int[] lowest = new int[heros.length];
 		for(int i = 0; i < heros.length; i++)lowest[i] = 999999999;
 		
-		if(P != null){
+		if(P.length > 0){
 			boolean[] takenP = new boolean[P.length];
 			for(int h = 0; h < heros.length; h++){
 				
@@ -129,12 +131,15 @@ public class PlayerAI
 					}
 				}
 				
-				if(objective!=null)heros[h].setObjective(objective);
+				if(objective!=null){
+					obj[h] = objective;
+					heros[h].setObjective(objective);
+				}
 				takenP[n] = true;
 			}
 		}
 		
-		if(C != null){
+		if(C.length > 0){
 			boolean[] takenC = new boolean[C.length];
 			for(int h = 0; h < heros.length; h++){
 				
@@ -152,12 +157,19 @@ public class PlayerAI
 					}
 				}
 				
-				if(objective!=null)heros[h].setObjective(objective);
+				if(objective!=null){
+					obj[h] = objective;
+					heros[h].setObjective(objective);
+				}
 				takenC[n] = true;
 			}
 		}
 		
-		for(int c = 0; c < C.length; c++)
+		//for(int i = 0; i < heros.length; i++){
+		//	System.out.println("hero"+heros[i].getPosition().toString()+" obj:"+obj[i].toString());
+		//}
+		
+		for(int c = 0; c < heros.length; c++)
 			heros[c].act();
 		
 	}
@@ -211,12 +223,11 @@ public class PlayerAI
 		}
 		
 		public void move(){
-			//System.out.println(I.getPosition().toString());
-			//System.out.println(objective.toString());
-			//System.out.println("");
 			
 			Direction d = world.getNextDirectionInPath(I.getPosition() , objective);
 			I.move(d);
+			
+			System.out.println(I.getPosition().toString()+" "+d.toString());
 			
 			//check for special cases
 			if(I.getPosition().equals(objective)){
