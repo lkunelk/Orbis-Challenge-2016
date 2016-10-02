@@ -11,6 +11,7 @@ import com.orbischallenge.ctz.objects.Pickup;
 import com.orbischallenge.ctz.objects.World;
 import com.orbischallenge.ctz.objects.enums.ActivateShieldResult;
 import com.orbischallenge.ctz.objects.enums.Direction;
+import com.orbischallenge.ctz.objects.enums.PickupResult;
 import com.orbischallenge.ctz.objects.enums.PickupType;
 import com.orbischallenge.ctz.objects.enums.ShotResult;
 import com.orbischallenge.ctz.objects.enums.Team;
@@ -31,7 +32,15 @@ public class PlayerAI
 	Hero[] heros;
 	Team team; 
 	
-	int[] gunPriority = {
+	PickupType[] pickups = {
+			PickupType.WEAPON_SCATTER_GUN,
+			PickupType.WEAPON_LASER_RIFLE,
+			PickupType.WEAPON_RAIL_GUN,
+			PickupType.SHIELD,
+			PickupType.REPAIR_KIT,
+	};
+	
+	int[] pickupValues = {
 			20, //scatter
 			10, //laser rifle
 			5,   //rail gun
@@ -39,7 +48,7 @@ public class PlayerAI
 			15  //health pack
 	};
 	
-	int[] objPriority = {
+	int[] controlPValues = {
 			100,  //mainframe
 			120,  //capture flag
 	};
@@ -53,82 +62,129 @@ public class PlayerAI
 			//analyze map and decide on roles, also give priority for gun types
 			team = FU[0].getTeam();
 			heros = new Hero[]{
-				new Hero(world, EU, FU[0], SUIT_UP),
-				new Hero(world, EU, FU[1], SUIT_UP),
-				new Hero(world, EU, FU[2], SUIT_UP),
-				new Hero(world, EU, FU[3], SUIT_UP),
+				new Hero(world, EU, FU[0], 0),
+				new Hero(world, EU, FU[1], 1),
+				new Hero(world, EU, FU[2], 2),
+				new Hero(world, EU, FU[3], 3),
 			};
 		}
+		else{ //update heros
+			for(int i = 0; i < heros.length; i++)
+				heros[i].update(FU[heros[i].getUnit()], EU);
+		}
 		
-		//create priority array for each hero based on distance and importance of the objective
-		Pickup[] ps = world.getPickups();
-		ControlPoint[] cps = world.getControlPoints();
-		int psL = 0;
-		int cpsL = 0;
-		if(ps != null) psL = ps.length;
-		if(cps != null) cpsL = cps.length;
+		Pickup[] P = world.getPickups();
+		ControlPoint[] C = world.getControlPoints();
 		
-		int[][] objectives = new int[heros.length][psL+cpsL];
+		int[][] objP = null;
+		int[][] objC = null;
 		
-		//evaluate objectives for pickup
-		for(int p = 0; p < psL; p++){
+		//evaluate the cost for each pickup
+		if(P != null){
+			objP = new int[heros.length][P.length];
+			
+				for(int h = 0; h < heros.length; h++)
+				{
+						for(int p = 0; p < P.length; p++)
+						{
+							int dist = world.getPathLength(heros[h].getPosition(), P[p].getPosition());
+							int value = getPickupValue(P[p].getPickupType());
+							objP[h][p] = f(dist, value);
+						}
+				}
+		}
+		
+		//evaluate cost of the control points
+		if(C != null){
+				objC = new int[heros.length][C.length];
+				
+				for(int h = 0; h < heros.length; h++){
+						for(int c = 0; c < C.length; c++){
+								int dist = world.getPathLength(heros[h].getPosition(), C[c].getPosition());
+								int value = getControlPointValue(C[c]);
+								objC[h][c] = f(dist, value);
+						}
+				}
+		}
+		
+		//assign objectives to heros
+		int[] lowest = new int[heros.length];
+		for(int i = 0; i < heros.length; i++)lowest[i] = 999999999;
+		
+		if(P != null){
+			boolean[] takenP = new boolean[P.length];
 			for(int h = 0; h < heros.length; h++){
-				int dist = world.getPathLength(heros[h].getPosition(), ps[p].getPosition());
-				objectives[h][p] = f(dist, ps[p].getPickupType());
+				
+				Point objective = null;
+				int n = 0;
+				
+				for(int p = 0; p < P.length; p++)
+				{
+					if(objP[h][p] < lowest[h] && !takenP[p])
+					{
+						n = p;
+						lowest[h] = objP[h][p];
+						objective = P[p].getPosition();
+						
+					}
+				}
+				
+				if(objective!=null)heros[h].setObjective(objective);
+				takenP[n] = true;
 			}
 		}
 		
-		
-		for(int p = 0; p < cpsL;p++){
+		if(C != null){
+			boolean[] takenC = new boolean[C.length];
 			for(int h = 0; h < heros.length; h++){
-				int dist = world.getPathLength(heros[h].getPosition(), cps[p].getPosition());
-				objectives[h][psL+p] = f(dist, cps[p]);
+				
+				Point objective = null;
+				int n = 0;
+				
+				for(int c = 0; c < C.length; c++)
+				{
+					if(objC[h][c] < lowest[h] && !takenC[c])
+					{
+						n = c;
+						lowest[h] = objC[h][c];
+						objective = C[c].getPosition();
+						
+					}
+				}
+				
+				if(objective!=null)heros[h].setObjective(objective);
+				takenC[n] = true;
 			}
 		}
 		
+		for(int c = 0; c < C.length; c++)
+			heros[c].act();
 		
-		for(int i = 0; i < cpsL; i++){
-			System.out.println("score: "+objectives[0][i+psL]);
-			System.out.println("dist: "+world.getPathLength(heros[0].getPosition(), cps[i].getPosition()));
-			System.out.println("pos: "+cps[i].getPosition().toString());
-			System.out.println("type: "+cps[i].isMainframe());
-			System.out.println("-------------------------");
-		}
-		
-		//for(int i = 0; i < 1; i++)
-			//heros[i].act();
 	}
 	
 	//function for calculating importance of an objective, lower the score the better
-	public int f(int dist, Object type){
-		double c = .5;
-		int score = (int)(c * dist * dist) - priority(type);
+	public int f(int dist, int value){
+		double c = 1;
+		int score = (int)(c * dist * dist) - value;
 		return score;
 	}
 	
-	public int priority(Object t){
-		if(t instanceof PickupType)
-		switch((PickupType)t)
-		{
-			case WEAPON_SCATTER_GUN: return gunPriority[0];
-			case WEAPON_LASER_RIFLE: return gunPriority[1];
-			case WEAPON_RAIL_GUN: return gunPriority[2];
-			case SHIELD: return gunPriority[3];
-			case REPAIR_KIT: return gunPriority[4];
-			default: return -1;
+	public int getPickupValue(PickupType t){
+		for(int i = 0; i < pickups.length; i++){
+			if(pickups[i].equals(t))
+				return pickupValues[i];
 		}
-		else{
-			ControlPoint p = (ControlPoint)t;
-			if( p.getControllingTeam() == team){
-				if(p.isMainframe())return -objPriority[1];
-				else return -objPriority[0];
-			}
-			else{
-				if(p.isMainframe())return objPriority[1];
-				else return objPriority[0];
-			}
-		}
+		return 0;
 	}
+	
+	public int getControlPointValue(ControlPoint c){
+		int x = 1;
+		if(c.getControllingTeam() == team) x=-1;
+		if(c.isMainframe()) return controlPValues[0]*x;
+		else return controlPValues[1]*x;
+	}
+	
+	//inner classes-------------------------------------------------------------------
 	
 	class Hero
 	{
@@ -137,13 +193,13 @@ public class PlayerAI
 		FriendlyUnit I;
 		
 		Point objective;
-		int mode;
+		int unit;
 		
 		int action;
 		
 		//CONSTRUCTOR
-		public Hero(World world, EnemyUnit[] EU, FriendlyUnit FU, int mode){
-			this.mode = SUIT_UP;
+		public Hero(World world, EnemyUnit[] EU, FriendlyUnit FU, int unit){
+			this.unit = unit;
 			this.world = world;
 			this.EU = EU;
 			this.I = FU;
@@ -155,12 +211,16 @@ public class PlayerAI
 		}
 		
 		public void move(){
+			//System.out.println(I.getPosition().toString());
+			//System.out.println(objective.toString());
+			//System.out.println("");
+			
 			Direction d = world.getNextDirectionInPath(I.getPosition() , objective);
 			I.move(d);
 			
 			//check for special cases
 			if(I.getPosition().equals(objective)){
-				if(mode == SUIT_UP)I.pickupItemAtPosition();
+				if(I.checkPickupResult() == PickupResult.PICK_UP_VALID)I.pickupItemAtPosition();
 				action = PICKED_UP;
 			}
 			
@@ -209,10 +269,6 @@ public class PlayerAI
 		
 		//------------------------^
 		
-		public void setMode(int mode){
-			this.mode = mode;
-		}
-		
 		public void setObjective(Point point){
 			objective = point;
 		}
@@ -221,6 +277,14 @@ public class PlayerAI
 			return I.getPosition();
 		}
 		
+		public int getUnit(){
+			return unit;
+		}
+		
+		public void update(FriendlyUnit I, EnemyUnit[] EU){
+			this.EU = EU;
+			this.I = I;
+		}
 	}//end Hero class
 	
 	class Support
