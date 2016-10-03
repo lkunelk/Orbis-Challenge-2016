@@ -1,126 +1,47 @@
-import java.util.Arrays;
-
-import com.orbischallenge.ctz.objects.EnemyUnit;
-import com.orbischallenge.ctz.objects.FriendlyUnit;
+import com.orbischallenge.ctz.objects.ControlPoint;
 import com.orbischallenge.ctz.objects.Pickup;
-import com.orbischallenge.ctz.objects.World;
-import com.orbischallenge.ctz.objects.enums.Direction;
-import com.orbischallenge.ctz.objects.enums.MoveResult;
-import com.orbischallenge.ctz.objects.enums.ShotResult;
 
-
-public class Test {
-
-
-	/**
-	 * This method will get called every turn.
-	 *
-	 * @param world The latest state of the world.
-	 * @param enemyUnits An array of all 4 units on the enemy team. Their order won't change.
-	 * @param friendlyUnits An array of all 4 units on your team. Their order won't change.
-	 */
-
-	int activeUnits = 4;
-	int[] mode = new int[4];
-	boolean[] moved = new boolean[4];
-	
-	Direction[] dir = {
-			Direction.NORTH,
-			Direction.NORTH_EAST,
-			Direction.EAST,
-			Direction.SOUTH_EAST,
-			Direction.SOUTH,
-			Direction.SOUTH_WEST,
-			Direction.WEST,
-			Direction.NORTH_WEST};
-	
-	public void doMove(World world, EnemyUnit[] EU, FriendlyUnit[] FU)
-	{
-		moved = new boolean[4];
+//create priority array for each hero based on distance and importance of the objective
+		Pickup[] ps = world.getPickups();
+		ControlPoint[] cps = world.getControlPoints();
+		int psL = 0;
+		int cpsL = 0;
+		if(ps != null) psL = ps.length;
+		if(cps != null) cpsL = cps.length;
 		
-		//randomly moving around
-		for(int f = 0; f < activeUnits; f++){
-			if(mode[f] == 1)random_move(FU[f]);
+		int[][] objectives = new int[heros.length][psL+cpsL];
+		
+		//evaluate objectives for pickup
+		for(int p = 0; p < psL; p++){
+			for(int h = 0; h < heros.length; h++){
+				int dist = world.getPathLength(heros[h].getPosition(), ps[p].getPosition());
+				objectives[h][p] = f(dist, ps[p].getPickupType());
+			}
 		}
 		
-		//assign closest pickup to the player
-		Pickup[] pickups = world.getPickups();
-		Pickup[] assignedP = new Pickup[4];
+		//evaluate objectives for control points
+		for(int p = 0; p < cpsL;p++){
+			for(int h = 0; h < heros.length; h++){
+				int dist = world.getPathLength(heros[h].getPosition(), cps[p].getPosition());
+				objectives[h][psL+p] = f(dist, cps[p]);
+			}
+		}
 		
-		for(int f = 0; f < activeUnits; f++){
-			int closest = 9999999;
-			for(int i = 0; i < pickups.length; i++)
-			{
-				int pathLen = world.getPathLength(FU[f].getPosition(), pickups[i].getPosition());
-				if( pathLen < closest && !contains(assignedP, pickups[i]) ){
-					closest = pathLen;
-					assignedP[f] = pickups[i];
-					//System.out.format("soldier %d is assigned p @ (%d,%d)",f,assignedP[f].getPosition().getX(), assignedP[f].getPosition().getY());
+		boolean[] taken = new boolean[cpsL+psL];
+		//assign priorities
+		for(int h = 0; h < heros.length; h++){
+			int lowest = 999999;
+			for(int o = 0; o < psL+cpsL; o++){
+				if(objectives[h][o] < lowest && !taken[o]){
+					lowest = objectives[h][o];
+					taken[o] = true;
+					
+					//set the objective
+					if(o >= psL) heros[h].setObjective(cps[o-psL].getPosition());
+					else heros[h].setObjective(ps[o].getPosition());
 				}
 			}
 		}
 		
-		//make sure each one has assigned pickup, otherwise go into mode 1
-		for(int f = 0; f < activeUnits; f++){
-			if(assignedP[f] == null)
-			{
-				mode[f] = 1;
-			}
-		}
-		
-		//move each player towards the pickup
-		for(int f = 0; f < activeUnits; f++){
-			if(mode[f] == 0){
-				Direction d = world.getNextDirectionInPath(FU[f].getPosition() , assignedP[f].getPosition() );
-				FU[f].move(d);
-			}
-		}
-		
-		//pick up item if unit gets to it
-		for(int f = 0 ; f < activeUnits; f++){
-			if(mode[f] == 0){
-				if(FU[f].getPosition().equals(assignedP[f].getPosition())){
-					FU[f].pickupItemAtPosition();
-					mode[f] = 1;
-				}
-			}
-		}
-		
-		//check if you can shoot anyone
-		for(int f = 0; f < activeUnits; f++){
-			int target = -1;
-			for(int e = 0; e < 4; e++){
-				if(FU[f].checkShotAgainstEnemy(EU[e]) == ShotResult.CAN_HIT_ENEMY){
-					target = e;
-					break;
-				}
-			}
-			if(target>=0){
-				FU[f].shootAt(EU[target]);
-			}
-		}
-		
-	}//end doMove()
-	
-	//helper functions
-	
-	//random move
-	public void random_move(FriendlyUnit fu)
-	{
-		int d = (int)(Math.random()*8);
-		for(int i = 0; i < 8; i++){
-			if(fu.checkMove(dir[i]) == MoveResult.MOVE_VALID)break;
-			else d = (int)(Math.random()*8);
-		}
-		fu.move(dir[d]);
-	}
-	
-	//searches for instance o in the array a,
-	//true if instance is in the array otherwise false
-	public boolean contains(Object[] a, Object o){
-		for(int i = 0; i < a.length; i++)
-			if(a[i] == o) return true;
-		return false;
-	}
-
-}
+		for(int i = 0; i < heros.length; i++)
+			heros[i].act();
