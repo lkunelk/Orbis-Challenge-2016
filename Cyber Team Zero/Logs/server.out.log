@@ -1,0 +1,4786 @@
+[7691773] Using port 4461
+Server waiting for client
+Connected player with UUID arock
+Assigned index 0 (Amber)
+Server waiting for client
+Connected player with UUID src
+Assigned index 1 (Blue)
+arock gained 200 points for capturing a control point
+arock gained 200 points for capturing a control point
+[0] arock (Comm open) - sending GET_READY...
+[0] arock (Comm open) - Ready!
+[1] src (Comm open) - sending GET_READY...
+[1] src (Comm open) - Ready!
+[7696244] Asking 0 for move
+[7696244] Asking 1 for move
+[7696286] Got 1's move
+[7696804] Got 0's move
+[7696804] ===== Move Frame 0 ===========
+[7696804] ==============================
+src gained 200 points for capturing a control point
+[7696809] Control Point Barbara captured by BLUE
+src gained 200 points for capturing a control point
+[7696809] Control Point Charles captured by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XAX       bcd     AX
+X+  XX a           X
+X+  +XX XXXXXX++   X
+XX  ++X      X++   X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX ++++ XXXXXXX
+XXXXXXX ++++ XXXXXXX
+XXXXXXX++++++XXXXXXX
+XXXXXXX+efgh+XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7697315] Asking 0 for move
+[7697315] Asking 1 for move
+[7697354] Got 1's move
+[7699848] Got 0's move
+[7699848] ===== Move Frame 1 ===========
+[7699849] ==============================
+src gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXX
+XAX        bc     AX
+X+  XXa      d     X
+X+  +XX XXXXXX++   X
+XX  ++X      X++   X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX ++++ XXXXXXX
+XXXXXXX ++++ XXXXXXX
+XXXXXXX++++++XXXXXXX
+XXXXXXX+efgh+XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7700357] Asking 0 for move
+[7700357] Asking 1 for move
+[7700374] Got 1's move
+[7703620] Got 0's move
+[7703620] ===== Move Frame 2 ===========
+[7703621] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX  a      b     AX
+X+  XX       c     X
+X+  +XX XXXXXXd+   X
+XX  ++X      X++   X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX ++++ XXXXXXX
+XXXXXXX ++++ XXXXXXX
+XXXXXXX+efgh+XXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7704126] Asking 0 for move
+[7704128] Asking 1 for move
+[7704145] Got 1's move
+[7704416] Got 0's move
+[7704417] ===== Move Frame 3 ===========
+[7704417] ==============================
+src gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+arock gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXX
+XAX a             AX
+X+  XX       bc    X
+X+  +XX XXXXXXd+   X
+XX  ++X      X++   X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX ++++ XXXXXXX
+XXXXXXX ++++ XXXXXXX
+XXXXXXX+efgh+XXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7704922] Asking 1 for move
+[7704922] Asking 0 for move
+[7704942] Got 1's move
+[7707074] Got 0's move
+[7707074] ===== Move Frame 4 ===========
+[7707074] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X+ aXX             X
+X+  +XX XXXXXXbc   X
+XX  ++X      X+d   X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX ++++ XXXXXXX
+XXXXXXX efgh XXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7707580] Asking 0 for move
+[7707581] Asking 1 for move
+[7707608] Got 1's move
+[7707734] Got 0's move
+[7707735] ===== Move Frame 5 ===========
+[7707735] ==============================
+src gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+arock gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+arock gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X+  XX             X
+X+  aXX XXXXXX c   X
+XX  ++X      Xbd   X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX ++++ XXXXXXX
+XXXXXXX efgh XXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7708235] Asking 0 for move
+[7708235] Asking 1 for move
+[7708249] Got 1's move
+[7708529] Got 0's move
+[7708529] ===== Move Frame 6 ===========
+[7708529] ==============================
+arock gained 50 points for obtaining a pick up
+arock gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X+  XX             X
+X+  aXX XXXXXXd    X
+XX  ++X      Xbc   X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX efgh XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7709033] Asking 0 for move
+[7709033] Asking 1 for move
+[7709053] Got 1's move
+[7710194] Got 0's move
+[7710194] ===== Move Frame 7 ===========
+[7710194] ==============================
+src gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X+  XX             X
+X+   XX XXXXXXd    X
+XX  a+X      X b   X
+X   XXXXXXXX+XXXc  X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX efgh XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7710699] Asking 0 for move
+[7710699] Asking 1 for move
+[7710711] Got 1's move
+[7711339] Got 0's move
+[7711339] ===== Move Frame 8 ===========
+[7711339] ==============================
+arock gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X+  XX       d     X
+X+   XX XXXXXX     X
+XX  a+X      X     X
+X   XXXXXXXX+XXXb  X
+X   XXX      XXX c X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX  f h XXXXXXX
+XXXXXXX e  g XXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7711842] Asking 0 for move
+[7711843] Asking 1 for move
+[7711862] Got 1's move
+[7715256] Got 0's move
+[7715256] ===== Move Frame 9 ===========
+[7715256] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X+  XX      d      X
+X+   XX XXXXXX     X
+XX   aX      X     X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX b X
+X  XXXX XXXXXXXXc  X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX f  h XXXXXXX
+XXXXXXXe    gXXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7715760] Asking 0 for move
+[7715761] Asking 1 for move
+[7715781] Got 1's move
+[7716286] Got 0's move
+[7716287] ===== Move Frame 10 ===========
+[7716287] ==============================
+src gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+arock gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X+  XX     d       X
+X+   XX XXXXXX     X
+XX   aX      X     X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXXb  X
+X              c   X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX f  h XXXXXXX
+XXXXXXXe    gXXXXXXX
+XXXXXXX+    +XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7716790] Asking 0 for move
+[7716790] Asking 1 for move
+[7716812] Got 1's move
+[7717242] Got 0's move
+[7717243] ===== Move Frame 11 ===========
+[7717243] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X+  XX    d        X
+X+  aXX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X              b   X
+X             c    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX f  h XXXXXXX
+XXXXXXXe    gXXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7717748] Asking 0 for move
+[7717748] Asking 1 for move
+[7717760] Got 1's move
+[7719022] Got 0's move
+[7719023] ===== Move Frame 12 ===========
+[7719023] ==============================
+src gained 50 points for obtaining a pick up
+src gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X+ aXX   d         X
+X+   XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X             b    X
+X            c     X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX f  h XXXXXXX
+XXXXXXXe    gXXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7719524] Asking 0 for move
+[7719524] Asking 1 for move
+[7719539] Got 1's move
+[7721238] Got 0's move
+[7721238] ===== Move Frame 13 ===========
+[7721238] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X+  XX  d          X
+X+a  XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X           cb     X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX f  h XXXXXXX
+XXXXXXXe    gXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7721742] Asking 0 for move
+[7721742] Asking 1 for move
+[7721759] Got 1's move
+[7723262] Got 0's move
+[7723262] ===== Move Frame 14 ===========
+[7723262] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X+  XX             X
+Xa   XXdXXXXXX     X
+XX    X      X     X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X           b      X
+XXXXXXXX   cXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX f  h XXXXXXX
+XXXXXXXe    gXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7723763] Asking 0 for move
+[7723764] Asking 1 for move
+[7723780] Got 1's move
+[7723983] Got 0's move
+[7723983] ===== Move Frame 15 ===========
+[7723983] ==============================
+arock gained 50 points for obtaining a pick up
+src gained 180 points for shooting an enemy unit
+[7723986] BLUE.DELTA hits AMBER.CHARLIE for 6 * 3 = 18 damage
+src gained 180 points for shooting an enemy unit
+[7724093] BLUE.BRAVO hits AMBER.CHARLIE for 6 * 3 = 18 damage
+src gained 100 points for destroying an enemy unit
+src gained 180 points for shooting an enemy unit
+[7724094] BLUE.ALPHA hits AMBER.CHARLIE for 6 * 3 = 18 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X+  XX             X
+Xa   XX XXXXXX     X
+XX    X d    X     X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX   cXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX f  hgXXXXXXX
+XXXXXXXe     XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7724596] Asking 0 for move
+[7724596] Asking 1 for move
+[7724623] Got 1's move
+[7724724] Got 0's move
+[7724724] ===== Move Frame 16 ===========
+[7724724] ==============================
+src gained 180 points for shooting an enemy unit
+[7724724] BLUE.DELTA hits AMBER.BRAVO for 6 * 3 = 18 damage
+src gained 180 points for shooting an enemy unit
+[7724725] BLUE.BRAVO hits AMBER.BRAVO for 6 * 3 = 18 damage
+src gained 100 points for destroying an enemy unit
+src gained 180 points for shooting an enemy unit
+[7724725] BLUE.ALPHA hits AMBER.BRAVO for 6 * 3 = 18 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX       c       AX
+Xa  XX             X
+X    XX XXXXXX     X
+XX    X  d   X     X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX   bXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX   gXXXXXXXX
+XXXXXXX f  h XXXXXXX
+XXXXXXXe     XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7725230] Asking 0 for move
+[7725230] Asking 1 for move
+[7725244] Got 1's move
+[7725338] Got 0's move
+[7725339] ===== Move Frame 17 ===========
+[7725339] ==============================
+arock gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXX
+XAX      b        AX
+Xa  XX   c         X
+X    XX XXXXXX     X
+XX    X   d  X     X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX   gXXXXXXXX
+XXXXXXXX f hXXXXXXXX
+XXXXXXX e    XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7725842] Asking 0 for move
+[7725842] Asking 1 for move
+[7725880] Got 1's move
+[7726149] Got 0's move
+[7726150] ===== Move Frame 18 ===========
+[7726150] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX  bc         X
+X a  XX XXXXXX     X
+XX    X    d X     X
+X   XXXXXXXX+XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX   gXXXXXXXX
+XXXXXXXX  fhXXXXXXXX
+XXXXXXXX e  XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7726657] Asking 0 for move
+[7726657] Asking 1 for move
+[7726666] Got 1's move
+[7728195] Got 0's move
+[7728195] ===== Move Frame 19 ===========
+[7728195] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X  aXX  c          X
+X    XXbXXXXXX     X
+XX    X      X     X
+X   XXXXXXXXdXXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X           g      X
+XXXXXXXX   fXXXXXXXX
+XXXXXXXX  ehXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7728698] Asking 0 for move
+[7728699] Asking 1 for move
+[7728712] Got 1's move
+[7729297] Got 0's move
+[7729298] ===== Move Frame 20 ===========
+[7729298] ==============================
+arock gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXX
+XAX a             AX
+X   XX             X
+X    XXcXXXXXX     X
+XX    X b    X     X
+X   XXXXXXXXdXXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X           fg     X
+XXXXXXXX   eXXXXXXXX
+XXXXXXXX   hXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7729800] Asking 1 for move
+[7729800] Asking 0 for move
+[7729812] Got 1's move
+[7730058] Got 0's move
+[7730058] ===== Move Frame 21 ===========
+[7730058] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X  aXX             X
+X    XX XXXXXX     X
+XX    X cb   X     X
+X   XXXXXXXX XXX   X
+X   XXX    d XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X             g    X
+X           ef     X
+XXXXXXXX   hXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7730564] Asking 0 for move
+[7730565] Asking 1 for move
+[7730578] Got 1's move
+[7730979] Got 0's move
+[7730979] ===== Move Frame 22 ===========
+[7730979] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X   aXX XXXXXX     X
+XX    X  cb  X     X
+X   XXXXXXXX XXX   X
+X   XXX   d  XXX   X
+X  XXXX XXXXXXXX   X
+X              g   X
+X             f    X
+X           he     X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7731486] Asking 0 for move
+[7731487] Asking 1 for move
+[7731499] Got 1's move
+[7731678] Got 0's move
+[7731678] ===== Move Frame 23 ===========
+[7731679] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX  a X   cb X     X
+X   XXXXXXXX XXX   X
+X   XXX  d   XXX   X
+X  XXXX XXXXXXXXg  X
+X              f   X
+X             e    X
+X            h     X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7732182] Asking 0 for move
+[7732182] Asking 1 for move
+[7732218] Got 1's move
+[7732328] Got 0's move
+[7732328] ===== Move Frame 24 ===========
+[7732329] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X    c X     X
+X  aXXXXXXXXbXXX   X
+X   XXX d    XXXg  X
+X  XXXX XXXXXXXXf  X
+X              e   X
+X             h    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7732834] Asking 0 for move
+[7732834] Asking 1 for move
+[7732846] Got 1's move
+[7733068] Got 0's move
+[7733068] ===== Move Frame 25 ===========
+[7733068] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXXcXXXg  X
+X  aXXX    b XXXf  X
+X  XXXXdXXXXXXXXe  X
+X              h   X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7733570] Asking 0 for move
+[7733570] Asking 1 for move
+[7733581] Got 1's move
+[7734028] Got 0's move
+[7734029] ===== Move Frame 26 ===========
+[7734029] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X  g  X
+X   XXXXXXXX XXXf  X
+X   XXX   bc XXXe  X
+X aXXXX XXXXXXXXh  X
+X       d          X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7734534] Asking 0 for move
+[7734534] Asking 1 for move
+[7734546] Got 1's move
+[7734847] Got 0's move
+[7734847] ===== Move Frame 27 ===========
+[7734848] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX  g  X
+XX    X      X  f  X
+X   XXXXXXXX XXXe  X
+X   XXX  bc  XXXh  X
+X  XXXX XXXXXXXX   X
+X  a               X
+X        d         X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7735349] Asking 0 for move
+[7735349] Asking 1 for move
+[7735357] Got 1's move
+[7735631] Got 0's move
+[7735631] ===== Move Frame 28 ===========
+[7735631] ==============================
+src gained 50 points for neutralizing a control point
+arock lost -725 points for losing a control point
+[7735631] Mainframe Donna neutralized by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XAX               NX
+X   XX           g X
+X    XX XXXXXX  f  X
+XX    X      X  e  X
+X   XXXXXXXX XXXh  X
+X   XXX bc   XXX   X
+X  XXXX XXXXXXXX   X
+X   a              X
+X                  X
+X         d        X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7736135] Asking 1 for move
+[7736135] Asking 0 for move
+[7736147] Got 1's move
+[7737121] Got 0's move
+[7737121] ===== Move Frame 29 ===========
+[7737121] ==============================
+src gained 200 points for capturing a control point
+[7737121] Mainframe Donna captured by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XAX               gX
+X   XX           f X
+X    XX XXXXXX  e  X
+XX    X      X  h  X
+X   XXXXXXXX XXX   X
+X   XXX c    XXX   X
+X  XXXXbXXXXXXXX   X
+X    a             X
+X                  X
+X                  X
+XXXXXXXX   dXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7737623] Asking 0 for move
+[7737623] Asking 1 for move
+[7737633] Got 1's move
+[7738602] Got 0's move
+[7738603] ===== Move Frame 30 ===========
+[7738603] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX              gBX
+X   XX          f  X
+X    XX XXXXXX e   X
+XX    X      X h   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXXcXXXXXXXX   X
+X       b          X
+X     a            X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX   dXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7739107] Asking 0 for move
+[7739107] Asking 1 for move
+[7739116] Got 1's move
+[7741443] Got 0's move
+[7741444] ===== Move Frame 31 ===========
+[7741444] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX             g BX
+X   XX         f   X
+X    XX XXXXXXe    X
+XX    X      X h   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X       c          X
+X        b         X
+X      a           X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX   dXXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7741945] Asking 0 for move
+[7741945] Asking 1 for move
+[7741953] Got 1's move
+[7744314] Got 0's move
+[7744314] ===== Move Frame 32 ===========
+[7744314] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX            g  BX
+X   XX       ef    X
+X    XX XXXXXXh    X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X        c         X
+X         b        X
+XXXXXXXXa   XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX    d XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7744816] Asking 0 for move
+[7744816] Asking 1 for move
+[7744829] Got 1's move
+[7747213] Got 0's move
+[7747213] ===== Move Frame 33 ===========
+[7747213] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX           g   BX
+X   XX      ef     X
+X    XX XXXXXXh    X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X         c        X
+XXXXXXXX   bXXXXXXXX
+XXXXXXXX a  XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   d  XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7747712] Asking 0 for move
+[7747712] Asking 1 for move
+[7747722] Got 1's move
+[7749623] Got 0's move
+[7749623] ===== Move Frame 34 ===========
+[7749623] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX          g    BX
+X   XX     efh     X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX   cXXXXXXXX
+XXXXXXXX   bXXXXXXXX
+XXXXXXXX  a XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   d  XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7750126] Asking 0 for move
+[7750126] Asking 1 for move
+[7750134] Got 1's move
+[7751482] Got 0's move
+[7751482] ===== Move Frame 35 ===========
+[7751482] ==============================
+arock gained 50 points for neutralizing a control point
+src lost -725 points for losing a control point
+[7751483] Control Point Charles neutralized by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XAX         g     BX
+X   XX    efh      X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX   cXXXXXXXX
+XXXXXXXX   bXXXXXXXX
+XXXXXXX    a XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX    d XXXXXXX
+XXXXXXXB    NXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7751984] Asking 0 for move
+[7751984] Asking 1 for move
+[7751995] Got 1's move
+[7753349] Got 0's move
+[7753349] ===== Move Frame 36 ===========
+[7753349] ==============================
+arock gained 200 points for capturing a control point
+[7753350] Control Point Charles captured by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XAX        g      BX
+X   XX   efh       X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX   cXXXXXXXX
+XXXXXXX    b XXXXXXX
+XXXXXXX   a  XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    dXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7753852] Asking 0 for move
+[7753853] Asking 1 for move
+[7753870] Got 1's move
+[7754486] Got 0's move
+[7754486] ===== Move Frame 37 ===========
+[7754487] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX       g       BX
+X   XX  efh        X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX    c XXXXXXX
+XXXXXXX   b  XXXXXXX
+XXXXXXX  a   XXXXXXX
+XXXXXXX    d XXXXXXX
+XXXXXXXB    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7754990] Asking 0 for move
+[7754990] Asking 1 for move
+[7755001] Got 1's move
+[7757625] Got 0's move
+[7757626] ===== Move Frame 38 ===========
+[7757626] ==============================
+arock gained 50 points for neutralizing a control point
+src lost -725 points for losing a control point
+[7757627] Control Point Barbara neutralized by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XAX      g        BX
+X   XX efh         X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   c  XXXXXXX
+XXXXXXX  bd  XXXXXXX
+XXXXXXX a    XXXXXXX
+XXXXXXXN    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7758130] Asking 0 for move
+[7758130] Asking 1 for move
+[7758146] Got 1's move
+[7761506] Got 0's move
+[7761506] ===== Move Frame 39 ===========
+[7761506] ==============================
+arock gained 200 points for capturing a control point
+[7761507] Control Point Barbara captured by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XAX     g         BX
+X   XXefh          X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  cd  XXXXXXX
+XXXXXXX b    XXXXXXX
+XXXXXXXa    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7762006] Asking 0 for move
+[7762007] Asking 1 for move
+[7762018] Got 1's move
+[7763151] Got 0's move
+[7763151] ===== Move Frame 40 ===========
+[7763151] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX  e g          BX
+X   XXfh           X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  cd  XXXXXXX
+XXXXXXX b    XXXXXXX
+XXXXXXXa     XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7763651] Asking 0 for move
+[7763652] Asking 1 for move
+[7763662] Got 1's move
+[7764444] Got 0's move
+[7764444] ===== Move Frame 41 ===========
+[7764444] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX efg           BX
+X   XXh            X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX  cd  XXXXXXX
+XXXXXXX b    XXXXXXX
+XXXXXXXa     XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7764947] Asking 0 for move
+[7764947] Asking 1 for move
+[7764958] Got 1's move
+[7765284] Got 0's move
+[7765284] ===== Move Frame 42 ===========
+[7765284] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAXefg            BX
+X   XXh            X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX cd XXXXXXXX
+XXXXXXX b    XXXXXXX
+XXXXXXXa     XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7765785] Asking 0 for move
+[7765785] Asking 1 for move
+[7765794] Got 1's move
+[7766169] Got 0's move
+[7766169] ===== Move Frame 43 ===========
+[7766169] ==============================
+src gained 50 points for neutralizing a control point
+arock lost -725 points for losing a control point
+[7766170] Mainframe Andrew neutralized by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XNXfgh            BX
+X e XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX  c XXXXXXXX
+XXXXXXXX bd XXXXXXXX
+XXXXXXX a    XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7766677] Asking 1 for move
+[7766679] Asking 0 for move
+[7766683] Got 1's move
+[7767074] Got 0's move
+[7767074] ===== Move Frame 44 ===========
+[7767074] ==============================
+src gained 200 points for capturing a control point
+[7767074] Mainframe Andrew captured by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XeXgh             BX
+X f XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX   cXXXXXXXX
+XXXXXXXX bd XXXXXXXX
+XXXXXXXX a  XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7767574] Asking 0 for move
+[7767574] Asking 1 for move
+[7767582] Got 1's move
+[7767970] Got 0's move
+[7767971] ===== Move Frame 45 ===========
+[7767971] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX h             BX
+Xe gXX             X
+X f  XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X           c      X
+XXXXXXXX  bdXXXXXXXX
+XXXXXXXX  a XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7768474] Asking 0 for move
+[7768474] Asking 1 for move
+[7768482] Got 1's move
+[7769432] Got 0's move
+[7769433] ===== Move Frame 46 ===========
+[7769433] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X  hXX             X
+Xe g XX XXXXXX     X
+XXf   X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X            c     X
+X          bd      X
+XXXXXXXX   aXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7769939] Asking 0 for move
+[7769939] Asking 1 for move
+[7769946] Got 1's move
+[7772070] Got 0's move
+[7772070] ===== Move Frame 47 ===========
+[7772070] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X  h XX XXXXXX     X
+XXeg  X      X     X
+X f XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X             c    X
+X           bd     X
+X           a      X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7772574] Asking 0 for move
+[7772574] Asking 1 for move
+[7772583] Got 1's move
+[7776031] Got 0's move
+[7776031] ===== Move Frame 48 ===========
+[7776031] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX     X
+XX h  X      X     X
+X egXXXXXXXX XXX   X
+X f XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X            bdc   X
+X            a     X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7776535] Asking 0 for move
+[7776535] Asking 1 for move
+[7776544] Got 1's move
+[7778398] Got 0's move
+[7778399] ===== Move Frame 49 ===========
+[7778399] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X  hXXXXXXXX XXX   X
+X egXXX      XXX   X
+X fXXXX XXXXXXXXc  X
+X            bad   X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7778905] Asking 0 for move
+[7778905] Asking 1 for move
+[7778921] Got 1's move
+[7779833] Got 0's move
+[7779833] ===== Move Frame 50 ===========
+[7779834] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X  hXXXXXXXX XXX   X
+X  gXXX      XXXc  X
+X eXXXX XXXXXXXXd  X
+X  f          ba   X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7780334] Asking 0 for move
+[7780334] Asking 1 for move
+[7780342] Got 1's move
+[7781354] Got 0's move
+[7781354] ===== Move Frame 51 ===========
+[7781354] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXXc  X
+X  hXXX      XXXd  X
+X gXXXX XXXXXXXXa  X
+X  ef          b   X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7781858] Asking 1 for move
+[7781858] Asking 0 for move
+[7781870] Got 1's move
+[7782723] Got 0's move
+[7782724] ===== Move Frame 52 ===========
+[7782724] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X c   X
+X   XXXXXXXX XXXd  X
+X   XXX      XXXa  X
+X hXXXX XXXXXXXXb  X
+X  gef             X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7783228] Asking 0 for move
+[7783228] Asking 1 for move
+[7783235] Got 1's move
+[7783923] Got 0's move
+[7783923] ===== Move Frame 53 ===========
+[7783923] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX  c  X
+XX    X      X d   X
+X   XXXXXXXX XXXa  X
+X   XXX      XXXb  X
+X  XXXX XXXXXXXX   X
+X  hge             X
+X     f            X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7784426] Asking 0 for move
+[7784427] Asking 1 for move
+[7784439] Got 1's move
+[7785567] Got 0's move
+[7785567] ===== Move Frame 54 ===========
+[7785567] ==============================
+arock gained 50 points for neutralizing a control point
+src lost -725 points for losing a control point
+[7785568] Mainframe Donna neutralized by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XBX               NX
+X   XX           c X
+X    XX XXXXXX  d  X
+XX    X      X a   X
+X   XXXXXXXX XXXb  X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X   hg             X
+X     e            X
+X      f           X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7786069] Asking 0 for move
+[7786070] Asking 1 for move
+[7786079] Got 1's move
+[7787783] Got 0's move
+[7787783] ===== Move Frame 55 ===========
+[7787783] ==============================
+arock gained 200 points for capturing a control point
+[7787783] Mainframe Donna captured by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XBX               cX
+X   XX           d X
+X    XX XXXXXX  a  X
+XX    X      X b   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X    h             X
+X     g            X
+X      e           X
+XXXXXXXXf   XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7788286] Asking 0 for move
+[7788286] Asking 1 for move
+[7788292] Got 1's move
+[7789653] Got 0's move
+[7789653] ===== Move Frame 56 ===========
+[7789653] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX           c X
+X    XX XXXXXXb d  X
+XX    X      X a   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X     h            X
+X      g           X
+XXXXXXXXe   XXXXXXXX
+XXXXXXXXf   XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7790158] Asking 0 for move
+[7790158] Asking 1 for move
+[7790166] Got 1's move
+[7793398] Got 0's move
+[7793398] ===== Move Frame 57 ===========
+[7793399] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX       b     X
+X    XX XXXXXXa c  X
+XX    X      X d   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X      h           X
+XXXXXXXXg   XXXXXXXX
+XXXXXXXXe   XXXXXXXX
+XXXXXXXXf   XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7793902] Asking 0 for move
+[7793902] Asking 1 for move
+[7793909] Got 1's move
+[7795301] Got 0's move
+[7795302] ===== Move Frame 58 ===========
+[7795302] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX      ba     X
+X    XX XXXXXXd    X
+XX    X      X c   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXXh   XXXXXXXX
+XXXXXXXXg   XXXXXXXX
+XXXXXXXXe   XXXXXXXX
+XXXXXXX f    XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7795803] Asking 1 for move
+[7795803] Asking 0 for move
+[7795818] Got 1's move
+[7796696] Got 0's move
+[7796697] ===== Move Frame 59 ===========
+[7796697] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX     bad     X
+X    XX XXXXXXc    X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXXh   XXXXXXXX
+XXXXXXXXg   XXXXXXXX
+XXXXXXX e    XXXXXXX
+XXXXXXX f    XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7797199] Asking 0 for move
+[7797199] Asking 1 for move
+[7797207] Got 1's move
+[7798014] Got 0's move
+[7798015] ===== Move Frame 60 ===========
+[7798015] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX    badc     X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXXh   XXXXXXXX
+XXXXXXX g    XXXXXXX
+XXXXXXX e    XXXXXXX
+XXXXXXX f    XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7798517] Asking 0 for move
+[7798517] Asking 1 for move
+[7798529] Got 1's move
+[7800323] Got 0's move
+[7800323] ===== Move Frame 61 ===========
+[7800323] ==============================
+src gained 50 points for neutralizing a control point
+arock lost -725 points for losing a control point
+[7800325] Control Point Barbara neutralized by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX   badc      X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX h    XXXXXXX
+XXXXXXX g    XXXXXXX
+XXXXXXX e    XXXXXXX
+XXXXXXX f    XXXXXXX
+XXXXXXXN    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7800828] Asking 0 for move
+[7800828] Asking 1 for move
+[7800837] Got 1's move
+[7802631] Got 0's move
+[7802631] ===== Move Frame 62 ===========
+[7802631] ==============================
+src gained 200 points for capturing a control point
+[7802631] Control Point Barbara captured by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX  badc       X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX h    XXXXXXX
+XXXXXXX g    XXXXXXX
+XXXXXXX e    XXXXXXX
+XXXXXXXf    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7803132] Asking 0 for move
+[7803132] Asking 1 for move
+[7803142] Got 1's move
+[7804060] Got 0's move
+[7804060] ===== Move Frame 63 ===========
+[7804060] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX  adc        X
+X    XXbXXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  h   XXXXXXX
+XXXXXXX  g   XXXXXXX
+XXXXXXX  e   XXXXXXX
+XXXXXXXBf   AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7804563] Asking 0 for move
+[7804563] Asking 1 for move
+[7804570] Got 1's move
+[7806158] Got 0's move
+[7806158] ===== Move Frame 64 ===========
+[7806158] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XXb dc         X
+X    XXaXXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  h   XXXXXXX
+XXXXXXX   g  XXXXXXX
+XXXXXXX   e  XXXXXXX
+XXXXXXXB f  AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7806661] Asking 0 for move
+[7806661] Asking 1 for move
+[7806673] Got 1's move
+[7808254] Got 0's move
+[7808254] ===== Move Frame 65 ===========
+[7808254] ==============================
+src gained 50 points for neutralizing a control point
+arock lost -725 points for losing a control point
+[7808255] Control Point Charles neutralized by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XBX  b            AX
+X   XXa c          X
+X    XXdXXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  h   XXXXXXX
+XXXXXXX   g  XXXXXXX
+XXXXXXX    e XXXXXXX
+XXXXXXXB  f NXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7808759] Asking 0 for move
+[7808759] Asking 1 for move
+[7808770] Got 1's move
+[7809670] Got 0's move
+[7809670] ===== Move Frame 66 ===========
+[7809671] ==============================
+src gained 200 points for capturing a control point
+[7809671] Control Point Charles captured by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XBX ba            AX
+X   XXd            X
+X    XXcXXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   h  XXXXXXX
+XXXXXXX    g XXXXXXX
+XXXXXXXB   feXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7810171] Asking 0 for move
+[7810171] Asking 1 for move
+[7810178] Got 1's move
+[7810439] Got 0's move
+[7810440] ===== Move Frame 67 ===========
+[7810440] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX ad            AX
+X  bXXc            X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   h  XXXXXXX
+XXXXXXX    g XXXXXXX
+XXXXXXX    feXXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7810942] Asking 0 for move
+[7810942] Asking 1 for move
+[7810951] Got 1's move
+[7812103] Got 0's move
+[7812103] ===== Move Frame 68 ===========
+[7812103] ==============================
+arock gained 50 points for neutralizing a control point
+src lost -725 points for losing a control point
+[7812104] Mainframe Andrew neutralized by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XNX dc            AX
+X baXX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX   h  XXXXXXX
+XXXXXXX    g XXXXXXX
+XXXXXXX    feXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7812608] Asking 0 for move
+[7812608] Asking 1 for move
+[7812616] Got 1's move
+[7813466] Got 0's move
+[7813466] ===== Move Frame 69 ===========
+[7813466] ==============================
+arock gained 200 points for capturing a control point
+[7813466] Mainframe Andrew captured by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XbX c             AX
+X adXX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX  h XXXXXXXX
+XXXXXXX    g XXXXXXX
+XXXXXXX    feXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7813968] Asking 0 for move
+[7813968] Asking 1 for move
+[7813975] Got 1's move
+[7815491] Got 0's move
+[7815492] ===== Move Frame 70 ===========
+[7815492] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X bcXX             X
+X  adXX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX  h XXXXXXXX
+XXXXXXXX   gXXXXXXXX
+XXXXXXX    feXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7815999] Asking 0 for move
+[7816000] Asking 1 for move
+[7816007] Got 1's move
+[7818637] Got 0's move
+[7818637] ===== Move Frame 71 ===========
+[7818637] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X  cXX             X
+X  bdXX XXXXXX     X
+XX  a X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX   hXXXXXXXX
+XXXXXXXX   gXXXXXXXX
+XXXXXXXX   eXXXXXXXX
+XXXXXXX    f XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7819138] Asking 0 for move
+[7819138] Asking 1 for move
+[7819146] Got 1's move
+[7820778] Got 0's move
+[7820778] ===== Move Frame 72 ===========
+[7820779] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X  cXX             X
+X   dXX XXXXXX     X
+XX  b X      X     X
+X  aXXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X           h      X
+XXXXXXXX   gXXXXXXXX
+XXXXXXXX   eXXXXXXXX
+XXXXXXXX   fXXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7821278] Asking 0 for move
+[7821278] Asking 1 for move
+[7821286] Got 1's move
+[7822757] Got 0's move
+[7822757] ===== Move Frame 73 ===========
+[7822758] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X   cXX XXXXXX     X
+XX  d X      X     X
+X  bXXXXXXXX XXX   X
+X  aXXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X           gh     X
+XXXXXXXX   eXXXXXXXX
+XXXXXXXX   fXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7823258] Asking 0 for move
+[7823258] Asking 1 for move
+[7823266] Got 1's move
+[7823840] Got 0's move
+[7823841] ===== Move Frame 74 ===========
+[7823841] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX  c X      X     X
+X  dXXXXXXXX XXX   X
+X  bXXX      XXX   X
+X aXXXX XXXXXXXX   X
+X                  X
+X             h    X
+X           eg     X
+XXXXXXXX   fXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7824341] Asking 0 for move
+[7824341] Asking 1 for move
+[7824355] Got 1's move
+[7825299] Got 0's move
+[7825299] ===== Move Frame 75 ===========
+[7825299] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X  cXXXXXXXX XXX   X
+X  dXXX      XXX   X
+X bXXXX XXXXXXXX   X
+X  a           h   X
+X             g    X
+X           fe     X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7825800] Asking 0 for move
+[7825800] Asking 1 for move
+[7825810] Got 1's move
+[7827997] Got 0's move
+[7827997] ===== Move Frame 76 ===========
+[7827997] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X  cXXX      XXX   X
+X dXXXX XXXXXXXXh  X
+X  ba          g   X
+X             e    X
+X            f     X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7828498] Asking 0 for move
+[7828498] Asking 1 for move
+[7828507] Got 1's move
+[7830075] Got 0's move
+[7830075] ===== Move Frame 77 ===========
+[7830075] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXXh  X
+X cXXXX XXXXXXXXg  X
+X  dba         e   X
+X             f    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7830576] Asking 0 for move
+[7830576] Asking 1 for move
+[7830585] Got 1's move
+[7830926] Got 0's move
+[7830927] ===== Move Frame 78 ===========
+[7830927] ==============================
+[7830927] [WARNING] Server found no valid target for ALPHA's shot. The client may be sending responses too slowly.
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXXh  X
+X   XXX      XXXg  X
+X cXXXX XXXXXXXX   X
+X  dba         e   X
+X             f    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7831431] Asking 0 for move
+[7831432] Asking 1 for move
+[7831445] Got 1's move
+[7831867] Got 0's move
+[7831867] ===== Move Frame 79 ===========
+[7831867] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X  h  X
+X   XXXXXXXX XXXg  X
+X   XXX      XXX   X
+X cXXXX XXXXXXXXe  X
+X  dba         f   X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7832369] Asking 0 for move
+[7832369] Asking 1 for move
+[7832373] Got 1's move
+[7832810] Got 0's move
+[7832810] ===== Move Frame 80 ===========
+[7832810] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX  h  X
+XX    X      X  g  X
+X   XXXXXXXX XXX   X
+X   XXX      XXXe  X
+X cXXXX XXXXXXXXf  X
+X  dba             X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7833311] Asking 0 for move
+[7833311] Asking 1 for move
+[7833319] Got 1's move
+[7834570] Got 0's move
+[7834570] ===== Move Frame 81 ===========
+[7834570] ==============================
+src gained 50 points for neutralizing a control point
+arock lost -725 points for losing a control point
+[7834571] Mainframe Donna neutralized by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XAX               NX
+X   XX           h X
+X    XX XXXXXX  g  X
+XX    X      X     X
+X   XXXXXXXX XXXe  X
+X   XXX      XXXf  X
+X  XXXX XXXXXXXX   X
+X  cdb             X
+X     a            X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7835075] Asking 0 for move
+[7835076] Asking 1 for move
+[7835106] Got 1's move
+[7836567] Got 0's move
+[7836568] ===== Move Frame 82 ===========
+[7836568] ==============================
+src gained 200 points for capturing a control point
+[7836568] Mainframe Donna captured by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XAX               hX
+X   XX           g X
+X    XX XXXXXX     X
+XX    X      X  e  X
+X   XXXXXXXX XXXf  X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X   cd             X
+X     b            X
+X      a           X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7837073] Asking 0 for move
+[7837074] Asking 1 for move
+[7837084] Got 1's move
+[7838142] Got 0's move
+[7838142] ===== Move Frame 83 ===========
+[7838142] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX              hBX
+X   XX          g  X
+X    XX XXXXXX     X
+XX    X      X e   X
+X   XXXXXXXX XXXf  X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X    c             X
+X     d            X
+X      b           X
+XXXXXXXXa   XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7838644] Asking 0 for move
+[7838644] Asking 1 for move
+[7838652] Got 1's move
+[7840560] Got 0's move
+[7840560] ===== Move Frame 84 ===========
+[7840560] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX             h BX
+X   XX         g   X
+X    XX XXXXXXe    X
+XX    X      X f   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X     c            X
+X      d           X
+XXXXXXXXb   XXXXXXXX
+XXXXXXXX a  XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7841065] Asking 0 for move
+[7841067] Asking 1 for move
+[7841080] Got 1's move
+[7843293] Got 0's move
+[7843293] ===== Move Frame 85 ===========
+[7843293] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX            h  BX
+X   XX       eg    X
+X    XX XXXXXXf    X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X      c           X
+XXXXXXXXd   XXXXXXXX
+XXXXXXXX b  XXXXXXXX
+XXXXXXXX  a XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7843793] Asking 0 for move
+[7843793] Asking 1 for move
+[7843803] Got 1's move
+[7845887] Got 0's move
+[7845887] ===== Move Frame 86 ===========
+[7845887] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX           h   BX
+X   XX      efg    X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXXc   XXXXXXXX
+XXXXXXXX d  XXXXXXXX
+XXXXXXXX  b XXXXXXXX
+XXXXXXX    a XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7846391] Asking 0 for move
+[7846396] Asking 1 for move
+[7846425] Got 1's move
+[7848669] Got 0's move
+[7848669] ===== Move Frame 87 ===========
+[7848669] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX          h    BX
+X   XX     efg     X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX c  XXXXXXXX
+XXXXXXXX  d XXXXXXXX
+XXXXXXX    b XXXXXXX
+XXXXXXX   a  XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7849169] Asking 0 for move
+[7849169] Asking 1 for move
+[7849175] Got 1's move
+[7851441] Got 0's move
+[7851441] ===== Move Frame 88 ===========
+[7851441] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX         h     BX
+X   XX    efg      X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX  c XXXXXXXX
+XXXXXXX    d XXXXXXX
+XXXXXXX   b  XXXXXXX
+XXXXXXX   a  XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7851943] Asking 0 for move
+[7851943] Asking 1 for move
+[7851954] Got 1's move
+[7854279] Got 0's move
+[7854279] ===== Move Frame 89 ===========
+[7854279] ==============================
+arock gained 50 points for neutralizing a control point
+src lost -725 points for losing a control point
+[7854279] Control Point Charles neutralized by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XAX        h      BX
+X   XX   efg       X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX    c XXXXXXX
+XXXXXXX   d  XXXXXXX
+XXXXXXX   b  XXXXXXX
+XXXXXXX    a XXXXXXX
+XXXXXXXB    NXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7854781] Asking 0 for move
+[7854781] Asking 1 for move
+[7854790] Got 1's move
+[7857563] Got 0's move
+[7857564] ===== Move Frame 90 ===========
+[7857564] ==============================
+arock gained 200 points for capturing a control point
+[7857564] Control Point Charles captured by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XAX       h       BX
+X   XX  efg        X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   c  XXXXXXX
+XXXXXXX   d  XXXXXXX
+XXXXXXX    b XXXXXXX
+XXXXXXXB    aXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7858065] Asking 0 for move
+[7858065] Asking 1 for move
+[7858074] Got 1's move
+[7859117] Got 0's move
+[7859117] ===== Move Frame 91 ===========
+[7859118] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX      h        BX
+X   XX efg         X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  cd  XXXXXXX
+XXXXXXX    b XXXXXXX
+XXXXXXXB    aXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7859619] Asking 0 for move
+[7859619] Asking 1 for move
+[7859627] Got 1's move
+[7861010] Got 0's move
+[7861011] ===== Move Frame 92 ===========
+[7861011] ==============================
+arock gained 50 points for neutralizing a control point
+src lost -725 points for losing a control point
+[7861011] Control Point Barbara neutralized by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XAX     h         BX
+X   XXefg          X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  db  XXXXXXX
+XXXXXXX c  a XXXXXXX
+XXXXXXXN    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7861512] Asking 0 for move
+[7861512] Asking 1 for move
+[7861521] Got 1's move
+[7864931] Got 0's move
+[7864931] ===== Move Frame 93 ===========
+[7864932] ==============================
+arock gained 200 points for capturing a control point
+[7864932] Control Point Barbara captured by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XAX  e h          BX
+X   XXfg           X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  ba  XXXXXXX
+XXXXXXX d    XXXXXXX
+XXXXXXXc    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7865433] Asking 0 for move
+[7865433] Asking 1 for move
+[7865440] Got 1's move
+[7866069] Got 0's move
+[7866070] ===== Move Frame 94 ===========
+[7866070] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX efh           BX
+X   XXg            X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  ba  XXXXXXX
+XXXXXXX d    XXXXXXX
+XXXXXXXc     XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7866575] Asking 0 for move
+[7866575] Asking 1 for move
+[7866583] Got 1's move
+[7866902] Got 0's move
+[7866902] ===== Move Frame 95 ===========
+[7866902] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAXefgh           BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX  ba  XXXXXXX
+XXXXXXX d    XXXXXXX
+XXXXXXXc     XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7867403] Asking 0 for move
+[7867403] Asking 1 for move
+[7867417] Got 1's move
+[7867746] Got 0's move
+[7867746] ===== Move Frame 96 ===========
+[7867747] ==============================
+src gained 50 points for neutralizing a control point
+arock lost -725 points for losing a control point
+[7867747] Mainframe Andrew neutralized by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XNXfgh            BX
+X e XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX ba XXXXXXXX
+XXXXXXX d    XXXXXXX
+XXXXXXXc     XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7868249] Asking 0 for move
+[7868249] Asking 1 for move
+[7868256] Got 1's move
+[7868679] Got 0's move
+[7868679] ===== Move Frame 97 ===========
+[7868679] ==============================
+src gained 200 points for capturing a control point
+[7868680] Mainframe Andrew captured by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XeXgh             BX
+X f XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX ba XXXXXXXX
+XXXXXXXX d  XXXXXXXX
+XXXXXXX c    XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7869183] Asking 0 for move
+[7869183] Asking 1 for move
+[7869197] Got 1's move
+[7869585] Got 0's move
+[7869585] ===== Move Frame 98 ===========
+[7869585] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX h             BX
+Xe gXX             X
+X f  XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX  baXXXXXXXX
+XXXXXXXX  d XXXXXXXX
+XXXXXXXX c  XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7870089] Asking 0 for move
+[7870089] Asking 1 for move
+[7870100] Got 1's move
+[7871381] Got 0's move
+[7871381] ===== Move Frame 99 ===========
+[7871381] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X  hXX             X
+Xe g XX XXXXXX     X
+XXf   X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X          ba      X
+XXXXXXXX   dXXXXXXXX
+XXXXXXXX  c XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7871881] Asking 1 for move
+[7871882] Asking 0 for move
+[7871893] Got 1's move
+[7873806] Got 0's move
+[7873806] ===== Move Frame 100 ===========
+[7873807] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X  h XX XXXXXX     X
+XXeg  X      X     X
+X f XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X           ba     X
+X           d      X
+XXXXXXXX   cXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7874311] Asking 0 for move
+[7874311] Asking 1 for move
+[7874321] Got 1's move
+[7877741] Got 0's move
+[7877741] ===== Move Frame 101 ===========
+[7877741] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX     X
+XX h  X      X     X
+X egXXXXXXXX XXX   X
+X f XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X            ba    X
+X            d     X
+X           c      X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7878244] Asking 0 for move
+[7878244] Asking 1 for move
+[7878256] Got 1's move
+[7880491] Got 0's move
+[7880491] ===== Move Frame 102 ===========
+[7880491] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X  hXXXXXXXX XXX   X
+X egXXX      XXX   X
+X fXXXX XXXXXXXX   X
+X             ba   X
+X            d     X
+X           c      X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7880995] Asking 1 for move
+[7880994] Asking 0 for move
+[7881002] Got 1's move
+[7882601] Got 0's move
+[7882601] ===== Move Frame 103 ===========
+[7882601] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X  hXXXXXXXX XXX   X
+X  gXXX      XXX   X
+X eXXXX XXXXXXXXa  X
+X  f          db   X
+X            c     X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7883103] Asking 0 for move
+[7883103] Asking 1 for move
+[7883113] Got 1's move
+[7884694] Got 0's move
+[7884694] ===== Move Frame 104 ===========
+[7884694] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X  hXXX      XXXa  X
+X gXXXX XXXXXXXXb  X
+X  ef         cd   X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7885195] Asking 0 for move
+[7885195] Asking 1 for move
+[7885208] Got 1's move
+[7885939] Got 0's move
+[7885939] ===== Move Frame 105 ===========
+[7885939] ==============================
+src gained 60 points for shooting an enemy unit
+[7885939] BLUE.BRAVO hits AMBER.CHARLIE for 6 * 1 = 6 damage
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXXa  X
+X  hXXX      XXXb  X
+X gXXXX XXXXXXXXd  X
+X  ef          c   X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7886441] Asking 0 for move
+[7886441] Asking 1 for move
+[7886444] Got 1's move
+[7887255] Got 0's move
+[7887256] ===== Move Frame 106 ===========
+[7887256] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X a   X
+X   XXXXXXXX XXXb  X
+X   XXX      XXXd  X
+X hXXXX XXXXXXXXc  X
+X  gef             X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7887757] Asking 0 for move
+[7887757] Asking 1 for move
+[7887763] Got 1's move
+[7889040] Got 0's move
+[7889040] ===== Move Frame 107 ===========
+[7889040] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               BX
+X   XX             X
+X    XX XXXXXX  a  X
+XX    X      X b   X
+X   XXXXXXXX XXXd  X
+X   XXX      XXXc  X
+X  XXXX XXXXXXXX   X
+X  hge             X
+X     f            X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7889545] Asking 0 for move
+[7889545] Asking 1 for move
+[7889556] Got 1's move
+[7890597] Got 0's move
+[7890598] ===== Move Frame 108 ===========
+[7890598] ==============================
+arock gained 50 points for neutralizing a control point
+src lost -725 points for losing a control point
+[7890598] Mainframe Donna neutralized by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XBX               NX
+X   XX           a X
+X    XX XXXXXX  b  X
+XX    X      X d   X
+X   XXXXXXXX XXXc  X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X   hg             X
+X     e            X
+X      f           X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7891098] Asking 0 for move
+[7891098] Asking 1 for move
+[7891109] Got 1's move
+[7893420] Got 0's move
+[7893420] ===== Move Frame 109 ===========
+[7893421] ==============================
+arock gained 200 points for capturing a control point
+[7893421] Mainframe Donna captured by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XBX               aX
+X   XX           b X
+X    XX XXXXXX  d  X
+XX    X      X c   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X    h             X
+X     g            X
+X      e           X
+XXXXXXXXf   XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7893926] Asking 0 for move
+[7893926] Asking 1 for move
+[7893937] Got 1's move
+[7895585] Got 0's move
+[7895585] ===== Move Frame 110 ===========
+[7895585] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX           a X
+X    XX XXXXXXc b  X
+XX    X      X d   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X     h            X
+X      g           X
+XXXXXXXXe   XXXXXXXX
+XXXXXXXXf   XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7896086] Asking 0 for move
+[7896086] Asking 1 for move
+[7896095] Got 1's move
+[7899411] Got 0's move
+[7899411] ===== Move Frame 111 ===========
+[7899411] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX       c     X
+X    XX XXXXXXd a  X
+XX    X      X b   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X      h           X
+XXXXXXXXg   XXXXXXXX
+XXXXXXXXe   XXXXXXXX
+XXXXXXXXf   XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7899911] Asking 0 for move
+[7899911] Asking 1 for move
+[7899919] Got 1's move
+[7901910] Got 0's move
+[7901910] ===== Move Frame 112 ===========
+[7901911] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX      cd     X
+X    XX XXXXXXb    X
+XX    X      X a   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXXh   XXXXXXXX
+XXXXXXXXg   XXXXXXXX
+XXXXXXXXe   XXXXXXXX
+XXXXXXX f    XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7902415] Asking 0 for move
+[7902415] Asking 1 for move
+[7902423] Got 1's move
+[7903762] Got 0's move
+[7903762] ===== Move Frame 113 ===========
+[7903762] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX     cdb     X
+X    XX XXXXXXa    X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXXh   XXXXXXXX
+XXXXXXXXg   XXXXXXXX
+XXXXXXX e    XXXXXXX
+XXXXXXX f    XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7904264] Asking 0 for move
+[7904264] Asking 1 for move
+[7904270] Got 1's move
+[7905046] Got 0's move
+[7905046] ===== Move Frame 114 ===========
+[7905046] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX    cdba     X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXXh   XXXXXXXX
+XXXXXXX g    XXXXXXX
+XXXXXXX e    XXXXXXX
+XXXXXXX f    XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXA    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7905546] Asking 0 for move
+[7905547] Asking 1 for move
+[7905549] Got 1's move
+[7906693] Got 0's move
+[7906693] ===== Move Frame 115 ===========
+[7906693] ==============================
+src gained 50 points for neutralizing a control point
+arock lost -725 points for losing a control point
+[7906693] Control Point Barbara neutralized by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX   cdba      X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX h    XXXXXXX
+XXXXXXX g    XXXXXXX
+XXXXXXX e    XXXXXXX
+XXXXXXX f    XXXXXXX
+XXXXXXXN    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7907195] Asking 0 for move
+[7907195] Asking 1 for move
+[7907204] Got 1's move
+[7908576] Got 0's move
+[7908577] ===== Move Frame 116 ===========
+[7908577] ==============================
+src gained 200 points for capturing a control point
+[7908577] Control Point Barbara captured by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX  cdba       X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX h    XXXXXXX
+XXXXXXX g    XXXXXXX
+XXXXXXX e    XXXXXXX
+XXXXXXXf    AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7909080] Asking 0 for move
+[7909080] Asking 1 for move
+[7909089] Got 1's move
+[7910016] Got 0's move
+[7910016] ===== Move Frame 117 ===========
+[7910017] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XX  dba        X
+X    XXcXXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  h   XXXXXXX
+XXXXXXX  g   XXXXXXX
+XXXXXXX  e   XXXXXXX
+XXXXXXXBf   AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7910518] Asking 0 for move
+[7910518] Asking 1 for move
+[7910526] Got 1's move
+[7912259] Got 0's move
+[7912259] ===== Move Frame 118 ===========
+[7912259] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX               AX
+X   XXc ba         X
+X    XXdXXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  h   XXXXXXX
+XXXXXXX   g  XXXXXXX
+XXXXXXX   e  XXXXXXX
+XXXXXXXB f  AXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7912767] Asking 0 for move
+[7912767] Asking 1 for move
+[7912776] Got 1's move
+[7914734] Got 0's move
+[7914735] ===== Move Frame 119 ===========
+[7914735] ==============================
+src gained 50 points for neutralizing a control point
+arock lost -725 points for losing a control point
+[7914735] Control Point Charles neutralized by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XBX  c            AX
+X   XXd a          X
+X    XXbXXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  h   XXXXXXX
+XXXXXXX   g  XXXXXXX
+XXXXXXX    e XXXXXXX
+XXXXXXXB  f NXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7915239] Asking 0 for move
+[7915239] Asking 1 for move
+[7915246] Got 1's move
+[7916185] Got 0's move
+[7916185] ===== Move Frame 120 ===========
+[7916185] ==============================
+src gained 200 points for capturing a control point
+[7916185] Control Point Charles captured by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XBX cd            AX
+X   XXb            X
+X    XXaXXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   h  XXXXXXX
+XXXXXXX    g XXXXXXX
+XXXXXXXB   feXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7916687] Asking 0 for move
+[7916687] Asking 1 for move
+[7916695] Got 1's move
+[7917038] Got 0's move
+[7917038] ===== Move Frame 121 ===========
+[7917038] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XBX db            AX
+X  cXXa            X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   h  XXXXXXX
+XXXXXXX    g XXXXXXX
+XXXXXXX    feXXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7917539] Asking 0 for move
+[7917540] Asking 1 for move
+[7917548] Got 1's move
+[7918129] Got 0's move
+[7918129] ===== Move Frame 122 ===========
+[7918129] ==============================
+arock gained 50 points for neutralizing a control point
+src lost -725 points for losing a control point
+[7918129] Mainframe Andrew neutralized by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XNX ba            AX
+X cdXX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX   h  XXXXXXX
+XXXXXXX    g XXXXXXX
+XXXXXXX    feXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7918634] Asking 0 for move
+[7918635] Asking 1 for move
+[7918642] Got 1's move
+[7919627] Got 0's move
+[7919628] ===== Move Frame 123 ===========
+[7919628] ==============================
+arock gained 200 points for capturing a control point
+[7919628] Mainframe Andrew captured by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XcX a             AX
+X dbXX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX  h XXXXXXXX
+XXXXXXX    g XXXXXXX
+XXXXXXX    feXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7920134] Asking 1 for move
+[7920134] Asking 0 for move
+[7920140] Got 1's move
+[7920844] Got 0's move
+[7920845] ===== Move Frame 124 ===========
+[7920845] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X caXX             X
+X  dbXX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX  h XXXXXXXX
+XXXXXXXX   gXXXXXXXX
+XXXXXXX    feXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7921349] Asking 0 for move
+[7921349] Asking 1 for move
+[7921358] Got 1's move
+[7922974] Got 0's move
+[7922974] ===== Move Frame 125 ===========
+[7922975] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X c XX             X
+X  daXX XXXXXX     X
+XX  b X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X                  X
+XXXXXXXX   hXXXXXXXX
+XXXXXXXX   gXXXXXXXX
+XXXXXXXX   eXXXXXXXX
+XXXXXXX    f XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7923476] Asking 0 for move
+[7923476] Asking 1 for move
+[7923486] Got 1's move
+[7924895] Got 0's move
+[7924895] ===== Move Frame 126 ===========
+[7924895] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X c XX             X
+X  d XX XXXXXX     X
+XX  a X      X     X
+X  bXXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X           h      X
+XXXXXXXX   gXXXXXXXX
+XXXXXXXX   eXXXXXXXX
+XXXXXXXX   fXXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7925397] Asking 0 for move
+[7925397] Asking 1 for move
+[7925402] Got 1's move
+[7927218] Got 0's move
+[7927219] ===== Move Frame 127 ===========
+[7927219] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X  c XX XXXXXX     X
+XX  d X      X     X
+X  aXXXXXXXX XXX   X
+X  bXXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X                  X
+X           gh     X
+XXXXXXXX   eXXXXXXXX
+XXXXXXXX   fXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7927722] Asking 0 for move
+[7927722] Asking 1 for move
+[7927729] Got 1's move
+[7929002] Got 0's move
+[7929002] ===== Move Frame 128 ===========
+[7929003] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX  c X      X     X
+X  dXXXXXXXX XXX   X
+X  aXXX      XXX   X
+X bXXXX XXXXXXXX   X
+X                  X
+X             h    X
+X           eg     X
+XXXXXXXX   fXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7929504] Asking 0 for move
+[7929505] Asking 1 for move
+[7929513] Got 1's move
+[7930681] Got 0's move
+[7930681] ===== Move Frame 129 ===========
+[7930681] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X  cXXXXXXXX XXX   X
+X  dXXX      XXX   X
+X aXXXX XXXXXXXX   X
+X  b           h   X
+X             g    X
+X           fe     X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7931183] Asking 0 for move
+[7931183] Asking 1 for move
+[7931189] Got 1's move
+[7932558] Got 0's move
+[7932558] ===== Move Frame 130 ===========
+[7932558] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X  cXXX      XXX   X
+X dXXXX XXXXXXXXh  X
+X  ab          g   X
+X             e    X
+X            f     X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7933059] Asking 0 for move
+[7933059] Asking 1 for move
+[7933070] Got 1's move
+[7934336] Got 0's move
+[7934337] ===== Move Frame 131 ===========
+[7934337] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXXh  X
+X cXXXX XXXXXXXXg  X
+X  dab         e   X
+X             f    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7934840] Asking 0 for move
+[7934841] Asking 1 for move
+[7934849] Got 1's move
+[7936576] Got 0's move
+[7936577] ===== Move Frame 132 ===========
+[7936578] ==============================
+src gained 60 points for shooting an enemy unit
+[7936578] BLUE.ALPHA hits AMBER.BRAVO for 6 * 1 = 6 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXXh  X
+X   XXX      XXXg  X
+X  XXXX XXXXXXXX   X
+X  cda         e   X
+X     b       f    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7937080] Asking 0 for move
+[7937080] Asking 1 for move
+[7937093] Got 1's move
+[7937461] Got 0's move
+[7937461] ===== Move Frame 133 ===========
+[7937462] ==============================
+src gained 60 points for shooting an enemy unit
+[7937462] BLUE.BRAVO hits AMBER.BRAVO for 6 * 1 = 6 damage
+src gained 60 points for shooting an enemy unit
+[7937462] BLUE.ALPHA hits AMBER.ALPHA for 6 * 1 = 6 damage
+arock gained 60 points for shooting an enemy unit
+[7937462] AMBER.ALPHA hits BLUE.ALPHA for 6 * 1 = 6 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X  h  X
+X   XXXXXXXX XXXg  X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X   ca         e   X
+X    d        f    X
+X      b           X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7937964] Asking 0 for move
+[7937964] Asking 1 for move
+[7937981] Got 1's move
+[7938161] Got 0's move
+[7938162] ===== Move Frame 134 ===========
+[7938162] ==============================
+arock gained 60 points for shooting an enemy unit
+[7938162] AMBER.DELTA hits BLUE.BRAVO for 6 * 1 = 6 damage
+src gained 60 points for shooting an enemy unit
+[7938162] BLUE.BRAVO hits AMBER.DELTA for 6 * 1 = 6 damage
+src gained 60 points for shooting an enemy unit
+[7938163] BLUE.ALPHA hits AMBER.ALPHA for 6 * 1 = 6 damage
+arock gained 60 points for shooting an enemy unit
+[7938163] AMBER.ALPHA hits BLUE.ALPHA for 6 * 1 = 6 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXX  h  X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXXg  X
+X  XXXX XXXXXXXX   X
+X    a         e   X
+X   cd        f    X
+X                  X
+XXXXXXXXb   XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7938666] Asking 0 for move
+[7938666] Asking 1 for move
+[7938680] Got 1's move
+[7938852] Got 0's move
+[7938852] ===== Move Frame 135 ===========
+[7938853] ==============================
+arock gained 60 points for shooting an enemy unit
+[7938853] AMBER.DELTA hits BLUE.BRAVO for 6 * 1 = 6 damage
+src gained 60 points for shooting an enemy unit
+[7938853] BLUE.BRAVO hits AMBER.DELTA for 6 * 1 = 6 damage
+src gained 60 points for shooting an enemy unit
+[7938853] BLUE.ALPHA hits AMBER.ALPHA for 6 * 1 = 6 damage
+arock gained 60 points for shooting an enemy unit
+[7938853] AMBER.ALPHA hits BLUE.ALPHA for 6 * 1 = 6 damage
+src gained 50 points for neutralizing a control point
+arock lost -725 points for losing a control point
+[7938853] Mainframe Donna neutralized by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XAX               NX
+X   XX           h X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXXg  X
+X    a         e   X
+X    d        f    X
+X    c             X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX b  XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7939354] Asking 0 for move
+[7939355] Asking 1 for move
+[7939366] Got 1's move
+[7939511] Got 0's move
+[7939511] ===== Move Frame 136 ===========
+[7939511] ==============================
+arock gained 60 points for shooting an enemy unit
+[7939511] AMBER.DELTA hits BLUE.BRAVO for 6 * 1 = 6 damage
+src gained 60 points for shooting an enemy unit
+[7939512] BLUE.BRAVO hits AMBER.DELTA for 6 * 1 = 6 damage
+src gained 60 points for shooting an enemy unit
+[7939512] BLUE.ALPHA hits AMBER.ALPHA for 6 * 1 = 6 damage
+arock gained 60 points for shooting an enemy unit
+[7939512] AMBER.ALPHA hits BLUE.ALPHA for 6 * 1 = 6 damage
+src gained 200 points for capturing a control point
+[7939512] Mainframe Donna captured by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XAX               hX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X    a         eg  X
+X    dc       f    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX  b XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7940015] Asking 0 for move
+[7940015] Asking 1 for move
+[7940025] Got 1's move
+[7940146] Got 0's move
+[7940147] ===== Move Frame 137 ===========
+[7940147] ==============================
+arock gained 60 points for shooting an enemy unit
+[7940147] AMBER.DELTA hits BLUE.BRAVO for 6 * 1 = 6 damage
+src gained 60 points for shooting an enemy unit
+[7940147] BLUE.BRAVO hits AMBER.CHARLIE for 6 * 1 = 6 damage
+src gained 60 points for shooting an enemy unit
+[7940147] BLUE.ALPHA hits AMBER.ALPHA for 6 * 1 = 6 damage
+src gained 100 points for destroying an enemy unit
+arock gained 60 points for shooting an enemy unit
+[7940148] AMBER.ALPHA hits BLUE.ALPHA for 6 * 1 = 6 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX              hBX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X    a         e   X
+X    d        fg   X
+X      c           X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX    b XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7940651] Asking 0 for move
+[7940651] Asking 1 for move
+[7940662] Got 1's move
+[7940856] Got 0's move
+[7940856] ===== Move Frame 138 ===========
+[7940856] ==============================
+src gained 120 points for shooting an enemy unit
+[7940857] BLUE.CHARLIE hits AMBER.DELTA for 6 * 2 = 12 damage
+src gained 100 points for destroying an enemy unit
+arock gained 60 points for shooting an enemy unit
+[7940857] AMBER.DELTA hits BLUE.BRAVO for 6 * 1 = 6 damage
+src gained 120 points for shooting an enemy unit
+[7940858] BLUE.BRAVO hits AMBER.DELTA for 6 * 2 = 12 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX     a       h BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X             e    X
+X    d        fg   X
+X                  X
+XXXXXXXXc   XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   b  XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7941360] Asking 0 for move
+[7941361] Asking 1 for move
+[7941370] Got 1's move
+[7941617] Got 0's move
+[7941617] ===== Move Frame 139 ===========
+[7941617] ==============================
+src gained 60 points for shooting an enemy unit
+[7941618] BLUE.DELTA hits AMBER.ALPHA for 6 * 1 = 6 damage
+arock gained 60 points for shooting an enemy unit
+[7941618] AMBER.ALPHA hits BLUE.DELTA for 6 * 1 = 6 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX     a  d    h BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X            efg   X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX c  XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   b  XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7942120] Asking 0 for move
+[7942120] Asking 1 for move
+[7942132] Got 1's move
+[7942321] Got 0's move
+[7942321] ===== Move Frame 140 ===========
+[7942321] ==============================
+src gained 60 points for shooting an enemy unit
+[7942321] BLUE.DELTA hits AMBER.DELTA for 6 * 1 = 6 damage
+arock gained 120 points for shooting an enemy unit
+[7942321] AMBER.DELTA hits BLUE.DELTA for 6 * 2 = 12 damage
+arock gained 120 points for shooting an enemy unit
+[7942321] AMBER.ALPHA hits BLUE.DELTA for 6 * 2 = 12 damage
+arock gained 50 points for neutralizing a control point
+src lost -725 points for losing a control point
+[7942322] Control Point Charles neutralized by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XAX     a  d    h BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X              g   X
+X           ef     X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX  c XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX    b XXXXXXX
+XXXXXXXB    NXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7942826] Asking 0 for move
+[7942826] Asking 1 for move
+[7942839] Got 1's move
+[7943010] Got 0's move
+[7943010] ===== Move Frame 141 ===========
+[7943010] ==============================
+src gained 60 points for shooting an enemy unit
+[7943010] BLUE.DELTA hits AMBER.DELTA for 6 * 1 = 6 damage
+arock gained 120 points for shooting an enemy unit
+[7943010] AMBER.DELTA hits BLUE.DELTA for 6 * 2 = 12 damage
+arock gained 120 points for shooting an enemy unit
+[7943011] AMBER.ALPHA hits BLUE.DELTA for 6 * 2 = 12 damage
+arock gained 100 points for destroying an enemy unit
+arock gained 200 points for capturing a control point
+[7943011] Control Point Charles captured by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XAX     a  d    h BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X             g    X
+X            f     X
+X           e      X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX    c XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    bXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7943515] Asking 0 for move
+[7943515] Asking 1 for move
+[7943523] Got 1's move
+[7943713] Got 0's move
+[7943713] ===== Move Frame 142 ===========
+[7943713] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX      a  d     BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X            g     X
+X           f      X
+XXXXXXXX   eXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   c  XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX    b XXXXXXX
+XXXXXXXB   hAXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7944216] Asking 0 for move
+[7944216] Asking 1 for move
+[7944225] Got 1's move
+[7944882] Got 0's move
+[7944882] ===== Move Frame 143 ===========
+[7944883] ==============================
+src gained 120 points for shooting an enemy unit
+[7944883] BLUE.DELTA hits AMBER.BRAVO for 6 * 2 = 12 damage
+arock gained 250 points for shooting an enemy unit
+[7944884] AMBER.BRAVO hits BLUE.DELTA for 25 * 1 = 25 damage
+src gained 120 points for shooting an enemy unit
+[7944884] BLUE.ALPHA hits AMBER.BRAVO for 6 * 2 = 12 damage
+src gained 100 points for destroying an enemy unit
+src gained 50 points for neutralizing a control point
+arock lost -725 points for losing a control point
+[7944886] Control Point Charles neutralized by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XAX       a       BX
+X   XX       d     X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X            g     X
+X           f      X
+XXXXXXXX   eXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  c   XXXXXXX
+XXXXXXX    b XXXXXXX
+XXXXXXXB   hNXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7945390] Asking 0 for move
+[7945390] Asking 1 for move
+[7945403] Got 1's move
+[7945534] Got 0's move
+[7945534] ===== Move Frame 144 ===========
+[7945535] ==============================
+src gained 60 points for shooting an enemy unit
+[7945537] BLUE.DELTA hits AMBER.CHARLIE for 6 * 1 = 6 damage
+arock gained 250 points for shooting an enemy unit
+[7945538] AMBER.CHARLIE hits BLUE.DELTA for 25 * 1 = 25 damage
+arock gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXXXXXXX
+XAX      b a      BX
+X   XX             X
+X    XX XXXXXXd    X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X          fg      X
+X          e       X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX  c   XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB   hNXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7946038] Asking 0 for move
+[7946039] Asking 1 for move
+[7946051] Got 1's move
+[7947086] Got 0's move
+[7947086] ===== Move Frame 145 ===========
+[7947086] ==============================
+src gained 200 points for capturing a control point
+[7947087] Control Point Charles captured by BLUE
+XXXXXXXXXXXXXXXXXXXX
+XAX       b a     BX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X d   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X         efg      X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   c  XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB   hBXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7947591] Asking 0 for move
+[7947591] Asking 1 for move
+[7947606] Got 1's move
+[7950759] Got 0's move
+[7950759] ===== Move Frame 146 ===========
+[7950760] ==============================
+src gained 60 points for shooting an enemy unit
+[7950760] BLUE.ALPHA hits AMBER.CHARLIE for 6 * 1 = 6 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX        b      BX
+X   XX       a     X
+X    XX XXXXXX  d  X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X         efg      X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   c  XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB   hBXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7951262] Asking 1 for move
+[7951262] Asking 0 for move
+[7951276] Got 1's move
+[7954969] Got 0's move
+[7954969] ===== Move Frame 147 ===========
+[7954970] ==============================
+src gained 60 points for shooting an enemy unit
+[7954970] BLUE.ALPHA hits AMBER.CHARLIE for 6 * 1 = 6 damage
+src gained 100 points for destroying an enemy unit
+arock gained 50 points for neutralizing a control point
+src lost -725 points for losing a control point
+[7954970] Mainframe Donna neutralized by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XAX         b     NX
+X   XX           d X
+X    XX XXXXXXa    X
+XX    X      X     X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X         efg      X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX   c  XXXXXXX
+XXXXXXX    h XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7955473] Asking 0 for move
+[7955473] Asking 1 for move
+[7955483] Got 1's move
+[7956560] Got 0's move
+[7956561] ===== Move Frame 148 ===========
+[7956561] ==============================
+arock gained 200 points for capturing a control point
+[7956561] Mainframe Donna captured by AMBER
+XXXXXXXXXXXXXXXXXXXX
+XAX       c       dX
+X   XX       b     X
+X    XX XXXXXX     X
+XX    X      X a   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X          efg     X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX    h XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7957067] Asking 0 for move
+[7957067] Asking 1 for move
+[7957076] Got 1's move
+[7958973] Got 0's move
+[7958973] ===== Move Frame 149 ===========
+[7958973] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX        c      AX
+X   XX            dX
+X    XX XXXXXXb    X
+XX    X      X     X
+X   XXXXXXXX XXXa  X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX   X
+X                  X
+X           efg    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX    h XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7959476] Asking 0 for move
+[7959476] Asking 1 for move
+[7959488] Got 1's move
+[7963191] Got 0's move
+[7963191] ===== Move Frame 150 ===========
+[7963191] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX         c     AX
+X   XX             X
+X    XX XXXXXX    dX
+XX    X      X b   X
+X   XXXXXXXX XXX   X
+X   XXX      XXX a X
+X  XXXX XXXXXXXX   X
+X              g   X
+X            ef    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX    h XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7963693] Asking 0 for move
+[7963693] Asking 1 for move
+[7963700] Got 1's move
+[7964628] Got 0's move
+[7964628] ===== Move Frame 151 ===========
+[7964628] ==============================
+src gained 120 points for shooting an enemy unit
+[7964628] BLUE.CHARLIE hits AMBER.ALPHA for 6 * 2 = 12 damage
+src gained 120 points for shooting an enemy unit
+[7964628] BLUE.BRAVO hits AMBER.ALPHA for 6 * 2 = 12 damage
+src gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX       c     X
+X    XX XXXXXX     X
+XX    X      X    dX
+X   XXXXXXXX XXXb  X
+X   XXX      XXX a X
+X  XXXX XXXXXXXX   X
+X              g   X
+X            ef    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX   hXXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7965135] Asking 0 for move
+[7965135] Asking 1 for move
+[7965148] Got 1's move
+[7965624] Got 0's move
+[7965624] ===== Move Frame 152 ===========
+[7965625] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX     a         AX
+X   XX             X
+X    XX XXXXXXc    X
+XX    X      X     X
+X   XXXXXXXX XXX  dX
+X   XXX      XXX b X
+X  XXXX XXXXXXXXg  X
+X              f   X
+X             e    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX   hXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7966127] Asking 0 for move
+[7966128] Asking 1 for move
+[7966135] Got 1's move
+[7966273] Got 0's move
+[7966273] ===== Move Frame 153 ===========
+[7966273] ==============================
+src gained 120 points for shooting an enemy unit
+[7966274] BLUE.BRAVO hits AMBER.BRAVO for 6 * 2 = 12 damage
+src gained 120 points for shooting an enemy unit
+[7966274] BLUE.ALPHA hits AMBER.BRAVO for 6 * 2 = 12 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX      a        AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X c   X
+X   XXXXXXXX XXX  dX
+X   XXX      XXX b X
+X  XXXX XXXXXXXXg  X
+X              f   X
+X             e    X
+X                  X
+XXXXXXXX   hXXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7966778] Asking 0 for move
+[7966778] Asking 1 for move
+[7966802] Got 1's move
+[7966898] Got 0's move
+[7966898] ===== Move Frame 154 ===========
+[7966898] ==============================
+src gained 120 points for shooting an enemy unit
+[7966899] BLUE.BRAVO hits AMBER.BRAVO for 6 * 2 = 12 damage
+src gained 100 points for destroying an enemy unit
+src gained 120 points for shooting an enemy unit
+[7966899] BLUE.ALPHA hits AMBER.BRAVO for 6 * 2 = 12 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX       a       AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXXc dX
+X   XXX      XXXgb X
+X  XXXX XXXXXXXX   X
+X              f   X
+X             e    X
+X           h      X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7967399] Asking 0 for move
+[7967399] Asking 1 for move
+[7967407] Got 1's move
+[7967469] Got 0's move
+[7967469] ===== Move Frame 155 ===========
+[7967469] ==============================
+src gained 120 points for shooting an enemy unit
+[7967470] BLUE.BRAVO hits AMBER.DELTA for 6 * 2 = 12 damage
+src gained 120 points for shooting an enemy unit
+[7967470] BLUE.ALPHA hits AMBER.DELTA for 6 * 2 = 12 damage
+src gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXXXXXXX
+XAX      b a      AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXXc dX
+X   XXX      XXXg  X
+X  XXXX XXXXXXXX   X
+X              f   X
+X             e    X
+X            h     X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7967974] Asking 0 for move
+[7967974] Asking 1 for move
+[7967982] Got 1's move
+[7968114] Got 0's move
+[7968115] ===== Move Frame 156 ===========
+[7968115] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX       bda     AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXXc  X
+X   XXX      XXXg  X
+X  XXXX XXXXXXXXf  X
+X              e   X
+X             h    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7968622] Asking 0 for move
+[7968623] Asking 1 for move
+[7968631] Got 1's move
+[7968947] Got 0's move
+[7968948] ===== Move Frame 157 ===========
+[7968948] ==============================
+src gained 60 points for shooting an enemy unit
+[7968948] BLUE.BRAVO hits AMBER.CHARLIE for 6 * 1 = 6 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX        bd     AX
+X   XX       a     X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXXc  X
+X   XXX      XXXg  X
+X  XXXX XXXXXXXXf  X
+X              e   X
+X             h    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7969459] Asking 0 for move
+[7969459] Asking 1 for move
+[7969470] Got 1's move
+[7969844] Got 0's move
+[7969844] ===== Move Frame 158 ===========
+[7969845] ==============================
+src gained 120 points for shooting an enemy unit
+[7969845] BLUE.CHARLIE hits AMBER.CHARLIE for 6 * 2 = 12 damage
+src gained 120 points for shooting an enemy unit
+[7969846] BLUE.BRAVO hits AMBER.CHARLIE for 6 * 2 = 12 damage
+src gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXXXXXXX
+XAX         b     AX
+X   XX       d     X
+X    XX XXXXXXa    X
+XX    X      X     X
+X   XXXXXXXX XXXc  X
+X   XXX      XXXg  X
+X  XXXX XXXXXXXXf  X
+X              e   X
+X             h    X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7970358] Asking 0 for move
+[7970358] Asking 1 for move
+[7970366] Got 1's move
+[7970720] Got 0's move
+[7970720] ===== Move Frame 159 ===========
+[7970721] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX       c       AX
+X   XX       b     X
+X    XX XXXXXXd    X
+XX    X      X a   X
+X   XXXXXXXX XXXg  X
+X   XXX      XXXf  X
+X  XXXX XXXXXXXXe  X
+X              h   X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7971222] Asking 0 for move
+[7971223] Asking 1 for move
+[7971233] Got 1's move
+[7971354] Got 0's move
+[7971355] ===== Move Frame 160 ===========
+[7971355] ==============================
+src gained 60 points for shooting an enemy unit
+[7971355] BLUE.CHARLIE hits AMBER.ALPHA for 6 * 1 = 6 damage
+arock gained 120 points for shooting an enemy unit
+[7971356] AMBER.DELTA hits BLUE.CHARLIE for 6 * 2 = 12 damage
+arock gained 120 points for shooting an enemy unit
+[7971356] AMBER.ALPHA hits BLUE.CHARLIE for 6 * 2 = 12 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX        c      AX
+X   XX        b    X
+X    XX XXXXXXd    X
+XX    X      X a   X
+X   XXXXXXXX XXXg  X
+X   XXX      XXXf  X
+X  XXXX XXXXXXXXe  X
+X              h   X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7971862] Asking 1 for move
+[7971862] Asking 0 for move
+[7971871] Got 1's move
+[7971970] Got 0's move
+[7971970] ===== Move Frame 161 ===========
+[7971970] ==============================
+src gained 60 points for shooting an enemy unit
+[7971970] BLUE.CHARLIE hits AMBER.ALPHA for 6 * 1 = 6 damage
+arock gained 120 points for shooting an enemy unit
+[7971971] AMBER.DELTA hits BLUE.CHARLIE for 6 * 2 = 12 damage
+arock gained 120 points for shooting an enemy unit
+[7971971] AMBER.ALPHA hits BLUE.CHARLIE for 6 * 2 = 12 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX         c     AX
+X   XX             X
+X    XX XXXXXXdb   X
+XX    X      X a   X
+X   XXXXXXXX XXXg  X
+X   XXX      XXXfe X
+X  XXXX XXXXXXXXh  X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7972471] Asking 0 for move
+[7972471] Asking 1 for move
+[7972478] Got 1's move
+[7972650] Got 0's move
+[7972650] ===== Move Frame 162 ===========
+[7972651] ==============================
+src gained 60 points for shooting an enemy unit
+[7972651] BLUE.CHARLIE hits AMBER.ALPHA for 6 * 1 = 6 damage
+arock gained 120 points for shooting an enemy unit
+[7972651] AMBER.DELTA hits BLUE.CHARLIE for 6 * 2 = 12 damage
+arock gained 120 points for shooting an enemy unit
+[7972651] AMBER.ALPHA hits BLUE.CHARLIE for 6 * 2 = 12 damage
+arock gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX       c     X
+X    XX XXXXXXd    X
+XX    X      X ab  X
+X   XXXXXXXX XXXg  X
+X   XXX      XXX e X
+X  XXXX XXXXXXXX h X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7973153] Asking 0 for move
+[7973154] Asking 1 for move
+[7973165] Got 1's move
+[7973263] Got 0's move
+[7973263] ===== Move Frame 163 ===========
+[7973263] ==============================
+arock gained 180 points for shooting an enemy unit
+[7973264] AMBER.DELTA hits BLUE.BRAVO for 6 * 3 = 18 damage
+src gained 60 points for shooting an enemy unit
+[7973264] BLUE.BRAVO hits AMBER.ALPHA for 6 * 1 = 6 damage
+arock gained 750 points for shooting an enemy unit
+[7973264] AMBER.BRAVO hits BLUE.BRAVO for 25 * 3 = 75 damage
+arock gained 100 points for destroying an enemy unit
+arock gained 180 points for shooting an enemy unit
+[7973264] AMBER.ALPHA hits BLUE.BRAVO for 6 * 3 = 18 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX        c    X
+X    XX XXXXXXd    X
+XX    X      X ab  X
+X   XXXXXXXX XXXg  X
+X   XXX      XXX   X
+X  XXXX XXXXXXXX heX
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7973767] Asking 0 for move
+[7973767] Asking 1 for move
+[7973776] Got 1's move
+[7973884] Got 0's move
+[7973885] ===== Move Frame 164 ===========
+[7973885] ==============================
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXXdc   X
+XX    X      X a   X
+X   XXXXXXXX XXXgb X
+X   XXX      XXX e X
+X  XXXX XXXXXXXX h X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7974389] Asking 0 for move
+[7974389] Asking 1 for move
+[7974399] Got 1's move
+[7974502] Got 0's move
+[7974502] ===== Move Frame 165 ===========
+[7974502] ==============================
+src gained 60 points for shooting an enemy unit
+[7974502] BLUE.DELTA hits AMBER.BRAVO for 6 * 1 = 6 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXXd    X
+XX    X      X ac  X
+X   XXXXXXXX XXXgb X
+X   XXX      XXX e X
+X  XXXX XXXXXXXX h X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7975006] Asking 0 for move
+[7975006] Asking 1 for move
+[7975017] Got 1's move
+[7975081] Got 0's move
+[7975081] ===== Move Frame 166 ===========
+[7975081] ==============================
+src gained 60 points for shooting an enemy unit
+[7975081] BLUE.DELTA hits AMBER.BRAVO for 6 * 1 = 6 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXXd    X
+XX    X      X ac  X
+X   XXXXXXXX XXXgb X
+X   XXX      XXX e X
+X  XXXX XXXXXXXX h X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7975585] Asking 0 for move
+[7975585] Asking 1 for move
+[7975592] Got 1's move
+[7975693] Got 0's move
+[7975694] ===== Move Frame 167 ===========
+[7975694] ==============================
+src gained 60 points for shooting an enemy unit
+[7975694] BLUE.DELTA hits AMBER.BRAVO for 6 * 1 = 6 damage
+arock gained 180 points for shooting an enemy unit
+[7975694] AMBER.DELTA hits BLUE.ALPHA for 6 * 3 = 18 damage
+arock gained 750 points for shooting an enemy unit
+[7975695] AMBER.BRAVO hits BLUE.ALPHA for 25 * 3 = 75 damage
+arock gained 100 points for destroying an enemy unit
+src gained 60 points for shooting an enemy unit
+[7975695] BLUE.ALPHA hits AMBER.ALPHA for 6 * 1 = 6 damage
+src gained 100 points for destroying an enemy unit
+arock gained 180 points for shooting an enemy unit
+[7975695] AMBER.ALPHA hits BLUE.ALPHA for 6 * 3 = 18 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX               AX
+X   XX             X
+X    XX XXXXXXd    X
+XX    X      X a   X
+X   XXXXXXXX XXXgb X
+X   XXX      XXX e X
+X  XXXX XXXXXXXX h X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7976197] Asking 0 for move
+[7976197] Asking 1 for move
+[7976210] Got 1's move
+[7976315] Got 0's move
+[7976315] ===== Move Frame 168 ===========
+[7976315] ==============================
+src gained 60 points for shooting an enemy unit
+[7976315] BLUE.DELTA hits AMBER.BRAVO for 6 * 1 = 6 damage
+arock gained 250 points for shooting an enemy unit
+[7976316] AMBER.BRAVO hits BLUE.DELTA for 25 * 1 = 25 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX     a         AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X d   X
+X   XXXXXXXX XXXgb X
+X   XXX      XXX e X
+X  XXXX XXXXXXXX h X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+[7976817] Asking 0 for move
+[7976817] Asking 1 for move
+[7976825] Got 1's move
+[7976942] Got 0's move
+[7976942] ===== Move Frame 169 ===========
+[7976942] ==============================
+src gained 60 points for shooting an enemy unit
+[7976942] BLUE.DELTA hits AMBER.CHARLIE for 6 * 1 = 6 damage
+arock gained 500 points for shooting an enemy unit
+[7976943] AMBER.BRAVO hits BLUE.DELTA for 25 * 2 = 50 damage
+arock gained 100 points for destroying an enemy unit
+arock gained 500 points for shooting an enemy unit
+[7976943] AMBER.CHARLIE hits BLUE.DELTA for 25 * 2 = 50 damage
+XXXXXXXXXXXXXXXXXXXX
+XAX      a        AX
+X   XX             X
+X    XX XXXXXX     X
+XX    X      X     X
+X   XXXXXXXX XXXgb X
+X   XXX      XXX e X
+X  XXXX XXXXXXXX h X
+X                  X
+X                  X
+X                  X
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXXX    XXXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXB    BXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+arock gained 5000 points for eliminating the entire enemy squad while holding their Mainframes
+[7976953] *********Game over!*********
+
+
+[7976954] Score Breakdown: 
+[7976954] arock (AMBER Team)
+-7250 points (10 losses * -725 points) for losing a control point
+24225 points (323 (control points * turns held) * 75 points) for holding a control point
+2400 points (12 captures * 200 points) for capturing a control point
+500 points (10 pick ups * 50 points) for obtaining a pick up
+1095610 points (109561 turns^2 * 10 points) for the game end bonus
+500 points (10 neutralizations * 50 points) for neutralizing a control point
+5830 points (583 total HP damaged * 10 points) for shooting an enemy unit
+515 points (103 tiles * 5 points) for exploring the map
+600 points (6 kills * 100 points) for destroying an enemy unit
+5000 points for eliminating the entire enemy squad while holding their Mainframes
+Total Points: 1127930
+[7976958] Missed turns: 0
+
+
+[7976958] ===============================================
+[7976958] src (BLUE Team)
+-7250 points (10 losses * -725 points) for losing a control point
+25050 points (334 (control points * turns held) * 75 points) for holding a control point
+2400 points (12 captures * 200 points) for capturing a control point
+1000 points (20 pick ups * 50 points) for obtaining a pick up
+500 points (10 neutralizations * 50 points) for neutralizing a control point
+3380 points (169 turns * 20 points) for the turn survival bonus
+4500 points (450 total HP damaged * 10 points) for shooting an enemy unit
+540 points (108 tiles * 5 points) for exploring the map
+1100 points (11 kills * 100 points) for destroying an enemy unit
+Total Points: 31220
+[7976962] Missed turns: 0
+
+
+[7976962] Total Scores: 
+[7976963] arock (AMBER Team): 1127930
+[7976963] src (BLUE Team): 31220
+Exited game loop
