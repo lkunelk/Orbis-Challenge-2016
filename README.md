@@ -1,5 +1,4 @@
 # Orbis-Challenge-2016
-AI hackathon
 
 This is AI for the game "Cyber Team Zero" for the Orbis Challenge.
 My AI ranked 9th out of 50 or so teams competing.
