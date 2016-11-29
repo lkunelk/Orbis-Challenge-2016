@@ -8,8 +8,9 @@ AI take control of 4 units each. Each unit can move, shoot or do other
 tasks. The goal is to get more points than the opponent by the end of
 the game. You can collect points in various ways such as:
 - collecting pickups (weapons, heal packs)
-- capturing a control points, mainframes (flags generate points, mainframes respawn your units)
-- killing a unit
+- capturing a control points, mainframes (control points generate points, mainframes respawn your units)
+- killing a enemy units
+
 This is just the overview of the game. For more details you can check out the game manual in folder "Cyber Team Zero/ Manual"
 
 If you want to see my AI in action, go to the "Cyber Team Zero" folder and run one of the executables called "launcher".
